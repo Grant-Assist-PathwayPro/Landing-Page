@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grant Assist - Revolutionizing Grant Writing</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      color: #333;
+      background-color: #f9f9f9;
+    }
+    header {
+      background: #004AAD;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 20px auto;
+      padding: 20px;
+      background: #fff;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+    .hero {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .hero h2 {
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+    }
+    .hero p {
+      font-size: 1.2rem;
+      margin-bottom: 30px;
+    }
+    .cta-button {
+      display: inline-block;
+      background: #004AAD;
+      color: #fff;
+      font-size: 1.2rem;
+      padding: 15px 30px;
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background 0.3s ease;
+    }
+    .cta-button:hover {
+      background: #003C8F;
+    }
+    .features {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+    }
+    .feature {
+      background: #f4f8ff;
+      padding: 20px;
+      border-radius: 8px;
+      width: 300px;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    .feature h3 {
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+    }
+    .feature p {
+      font-size: 1rem;
+    }
+    footer {
+      text-align: center;
+      padding: 20px 0;
+      background: #004AAD;
+      color: #fff;
+      margin-top: 40px;
+    }
+    footer p {
+      margin: 0;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Grant Assist</h1>
+    <p>Revolutionizing Grant Writing with AI</p>
+  </header>
+  <div class="container">
+    <div class="hero">
+      <h2>Write Outstanding Grants in Seconds</h2>
+      <p>Leverage the power of AI to analyze funders, understand your organization, and create optimized grant proposals effortlessly.</p>
+      <a href="#signup" class="cta-button">Sign Up Now</a>
+    </div>
+    <div class="features">
+      <div class="feature">
+        <h3>AI-Powered Insights</h3>
+        <p>Analyze everything about funders and tailor proposals to their priorities.</p>
+      </div>
+      <div class="feature">
+        <h3>Seamless Integration</h3>
+        <p>Understand your organization deeply and align it with funder requirements.</p>
+      </div>
+      <div class="feature">
+        <h3>Time-Saving Efficiency</h3>
+        <p>Create grant answers in seconds, saving days of research and preparation.</p>
+      </div>
+    </div>
+    <div class="hero" id="signup">
+      <h2>Be the First to Know</h2>
+      <p>Sign up now to get notified when Grant Assist launches!</p>
+      <form action="#" method="POST" style="text-align: center;">
+        <input type="email" name="email" placeholder="Enter your email" required style="padding: 10px; width: 250px; border-radius: 5px; border: 1px solid #ccc;">
+        <button type="submit" class="cta-button" style="margin-left: 10px;">Notify Me</button>
+      </form>
+    </div>
+  </div>
+  <footer>
+    <p>&copy; 2023 Grant Assist. All rights reserved.</p>
+  </footer>
+</body>
+</html>
