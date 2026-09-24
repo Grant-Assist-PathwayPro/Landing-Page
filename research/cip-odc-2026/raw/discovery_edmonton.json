@@ -1,0 +1,673 @@
+[
+  {
+    "org": "Edmonton Down Syndrome Society (EDSS)",
+    "city": "Edmonton",
+    "website": "https://www.edss.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "'In 1995, the group incorporated as a charitable organization under the name Edmonton Down Syndrome Society (EDSS).' Search summary also gave CRA Registration 899799753RR0001 (third-party aggregator snippet).",
+        "url": "https://www.edss.ca/about"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "'EDMONTON DOWN SYNDROME SOCIETY is a charitable organization ... registered business location at 9139 39 Ave, Edmonton, AB T6E 5Y2.'",
+        "url": "https://opengovca.com/alberta-business/23161"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "Mission: 'supporting people with Down syndrome and their families, through programming, information, resources and connecting members with peer to peer support.' No faith requirement mentioned.",
+        "url": "https://www.edss.ca/about"
+      },
+      "A4_revenue_100k": {
+        "status": "MET",
+        "evidence": "'The organization has revenue of $366.0K according to available data.' (third-party estimate, not T3010)",
+        "url": "https://contactout.com/company/Edmonton-Down-Syndrome-Society-34341",
+        "value": "~$366K (third-party estimate, FY unknown)"
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "Listed as approved applicant in CIP Operating Intake 1, 2024-25 approved applicants (search snippet: Edmonton Down Syndrome Society, Edmonton, $75,000; document dated Sept 5, 2024).",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf"
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "ED transition: The Vogel Group ran the ED search; Janet Tryhuba ED since May 2023. Governance: 'Board of Directors led an engagement strategy in summer 2023 to prepare for the transition to new bylaws, which were approved at the April 2024 AGM.'",
+        "url": "https://thevogelgroup.ca/current-opportunities/executive-director-edmonton-down-syndrome-society/"
+      }
+    },
+    "contact": {
+      "name": "Janet Tryhuba",
+      "title": "Executive Director",
+      "url": "https://www.globaldownsyndrome.org/exclusive-interview-with-edss-executive-director-janet-tryhuba/"
+    },
+    "unknowns": [
+      "Exact T3010 revenue (charitydata page not readable)",
+      "Whether 2024-25 CIP Operating was multi-year",
+      "Overdue/incomplete ministry reporting (never publicly verifiable)",
+      "Whether they already applied for CIP-ODC Oct 15, 2026",
+      "Board appetite for an org-development project"
+    ],
+    "risks": [
+      "Revenue figure is a third-party estimate",
+      "Bylaws snippet source page not pinned (EDSS site search results)"
+    ],
+    "outreach_angle": "You just lost the CIP Operating stream that funded you at $75K in 2024-25; CIP-ODC can fund the next phase of the post-2023 leadership and new-bylaw governance work (strategic plan, board development, fund diversification) at up to $50K.",
+    "self_confidence": "High"
+  },
+  {
+    "org": "Autism Society of Edmonton Area (Autism Edmonton)",
+    "city": "Edmonton",
+    "website": "https://www.autismedmonton.org/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "Received a CIP Operating grant in 2020/21 (requires eligible incorporation at the time), but no current registration/BN source found.",
+        "url": ""
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Grant recipient database lists Community/City: EDMONTON for Autism Society of Edmonton Area.",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "'Dedicated to providing an array of inclusive and impactful programs and services for autistic individuals and their families' incl. peer groups for autistic adults, LGBTQ2S+ members, women, partners, parents. No faith requirement.",
+        "url": "https://www.autismedmonton.org/programs/"
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "'Autism Society of Edmonton Area received CIP - Operational Assistance 2021 funding of $44,845.00 in the 2020/2021 fiscal year for Executive Director, operating, and organizational development costs.'",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "No 2025/26 strategic plan, leadership change or governance review found.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": "https://www.autismedmonton.org/"
+    },
+    "unknowns": [
+      "Revenue",
+      "Current CRA status",
+      "ED name",
+      "Any CIP Operating after 2021",
+      "Overdue/incomplete ministry reporting (never publicly verifiable)",
+      "Whether they already applied for CIP-ODC Oct 15, 2026",
+      "Board appetite for an org-development project"
+    ],
+    "risks": [
+      "Only 2020/21 CIP evidence; may not have been a recent recipient"
+    ],
+    "outreach_angle": "You've used CIP Operating for ED and organizational-development costs before; CIP-ODC is now the only provincial door for exactly that kind of spend.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "Clean Scene Network for Youth Society",
+    "city": "Edmonton",
+    "website": "UNKNOWN",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "Received CIP Operating 2020/21; current status not verified.",
+        "url": ""
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Grant recipient database, Community/City: EDMONTON.",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "Youth mentoring/mental-health org; no statement on faith found.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "'Clean Scene Network for Youth Society - received $48,735.00 in fiscal year 2020/2021 for funding an Executive Director and Program Director, Senior and Junior Mentors, and a part-time Mental Health Therapist over one year.'",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": ""
+    },
+    "unknowns": [
+      "Website",
+      "Revenue",
+      "Current operating status",
+      "Leadership",
+      "Overdue/incomplete ministry reporting (never publicly verifiable)",
+      "Whether they already applied for CIP-ODC Oct 15, 2026",
+      "Board appetite for an org-development project"
+    ],
+    "risks": [
+      "Small youth org; may be under $100K or dormant",
+      "Only 2020/21 evidence"
+    ],
+    "outreach_angle": "CIP Operating once paid your ED and program director; CIP-ODC can fund leadership capacity and sustainability planning instead.",
+    "self_confidence": "Low"
+  },
+  {
+    "org": "Abbottsfield Youth Project (AYP) Society",
+    "city": "Edmonton",
+    "website": "UNKNOWN",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "Received CIP Operating 2020/21; current status not verified.",
+        "url": ""
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Grant recipient database, Community/City: EDMONTON.",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "'Abbottsfield Youth Project (AYP) Society - received $30,000.00 in fiscal year 2020/2021 for Child Development Coordinator, rent, and insurance costs.'",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": ""
+    },
+    "unknowns": [
+      "Website",
+      "Revenue",
+      "Leadership",
+      "Faith stance",
+      "Overdue/incomplete ministry reporting (never publicly verifiable)",
+      "Whether they already applied for CIP-ODC Oct 15, 2026",
+      "Board appetite for an org-development project"
+    ],
+    "risks": [
+      "Small award ($30K) suggests smaller budget; revenue may cap ODC request below $50K"
+    ],
+    "outreach_angle": "Former CIP Operating recipient in a high-need NE Edmonton neighbourhood; position ODC for resilience and resource management.",
+    "self_confidence": "Low"
+  },
+  {
+    "org": "Edmonton Seniors Centre",
+    "city": "Edmonton",
+    "website": "UNKNOWN",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "Received CIP Operating 2020/21; current registration not verified.",
+        "url": ""
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Grant recipient database, Community/City: EDMONTON.",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "'The Edmonton Seniors Centre received a CIP - Operational Assistance 2021 grant of $75,000.00 for the 2020/2021 fiscal year, designated for Executive Director and Office Administrator positions.'",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": ""
+    },
+    "unknowns": [
+      "Website",
+      "Revenue",
+      "Leadership",
+      "Overdue/incomplete ministry reporting (never publicly verifiable)",
+      "Whether they already applied for CIP-ODC Oct 15, 2026",
+      "Board appetite for an org-development project"
+    ],
+    "risks": [
+      "Relied on CIP to pay ED and admin salaries; loss of stream may create a core-funding gap that ODC (non-operating) won't fill"
+    ],
+    "outreach_angle": "Max CIP Operating award ($75K) for ED/admin in 2020/21; ODC can fund leadership succession, board governance and revenue diversification to replace that dependence.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "Action Coalition on Human Trafficking (ACT) Alberta Association",
+    "city": "Edmonton",
+    "website": "UNKNOWN",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Named among Edmonton organizations that received CIP - Operational Assistance grants in 2020/2021 (Community/City: EDMONTON).",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "'several organizations in Edmonton that received CIP - Operational Assistance grants in 2020/2021, including Edmonton Seniors Centre, Action Coalition on Human Trafficking Alberta Association, and Adeara Recovery Centre.' Amount not shown.",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": ""
+    },
+    "unknowns": [
+      "Amount of CIP award",
+      "Revenue",
+      "Leadership",
+      "Website",
+      "Overdue/incomplete ministry reporting (never publicly verifiable)",
+      "Whether they already applied for CIP-ODC Oct 15, 2026",
+      "Board appetite for an org-development project"
+    ],
+    "risks": [
+      "Province-wide scope; may be larger than target band",
+      "Amount unknown"
+    ],
+    "outreach_angle": "Past CIP Operating recipient; ODC fits collaboration and strategic-leadership work across a provincial coalition (also consider the Collaboratives category, up to $100K).",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "Alberta Immigrant Women & Children Centre",
+    "city": "Edmonton",
+    "website": "UNKNOWN",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Charity Data profile exists: 'ALBERTA IMMIGRANT WOMEN & CHILDREN CENTRE — Charity Data' under BN 806741765RR0001 (RR = registered charity). Registration date not seen.",
+        "url": "https://www.charitydata.ca/charity/alberta-immigrant-women-and-children-centre/806741765RR0001/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Grant recipient database, Community/City: EDMONTON.",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Charity Data page not readable via search snippets.",
+        "url": ""
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "'Alberta Immigrant Women & Children Centre receiving a CIP - Operational Assistance 2021 grant in Edmonton.' Amount truncated in snippet.",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": ""
+    },
+    "unknowns": [
+      "Revenue",
+      "Amount of CIP award",
+      "Leadership",
+      "Website",
+      "Overdue/incomplete ministry reporting (never publicly verifiable)",
+      "Whether they already applied for CIP-ODC Oct 15, 2026",
+      "Board appetite for an org-development project"
+    ],
+    "risks": [
+      "Registration date (1-year rule) not confirmed, though 2021 grant implies operating history"
+    ],
+    "outreach_angle": "Past CIP Operating recipient serving immigrant women; ODC can fund systems, governance and fund-development capacity.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "Creating Hope Society of Alberta",
+    "city": "Edmonton",
+    "website": "UNKNOWN",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "'Creating Hope Society of Alberta in Edmonton was awarded $75,000 for CIP - Operational Assistance 2021.'",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "'Creating Hope Society of Alberta in Edmonton was awarded $75,000 for CIP - Operational Assistance 2021 for Program Coordinator and operating costs.'",
+        "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": ""
+    },
+    "unknowns": [
+      "Revenue",
+      "Leadership",
+      "Website",
+      "Overdue/incomplete ministry reporting (never publicly verifiable)",
+      "Whether they already applied for CIP-ODC Oct 15, 2026",
+      "Board appetite for an org-development project"
+    ],
+    "risks": [
+      "Max award used for a program coordinator and operating costs; ODC does not replace operating dollars"
+    ],
+    "outreach_angle": "Took the full $75K CIP Operating award; ODC can build organizational resilience after that stream ended.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "The Candora Society of Edmonton",
+    "city": "Edmonton",
+    "website": "http://www.candora.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Charity Data profile: 'THE CANDORA SOCIETY OF EDMONTON — Charity Data', BN 133583120RR0001 (registered charity).",
+        "url": "https://www.charitydata.ca/charity/the-candora-society-of-edmonton/133583120RR0001/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "'not-for-profit organization with a community development mandate to work with residents of North East and North Central Edmonton.'",
+        "url": "https://www.humanservices.alberta.ca/documents/Edmonton-etcs-low-income-women.pdf"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "Community development org offering employment preparation and women's financial literacy programs; no faith requirement mentioned.",
+        "url": "https://www.humanservices.alberta.ca/documents/Edmonton-etcs-low-income-women.pdf"
+      },
+      "A4_revenue_100k": {
+        "status": "MET",
+        "evidence": "'Candora Society of Edmonton generates $2.50 million in sales (USD)' (Dun & Bradstreet modeled estimate).",
+        "url": "https://www.dnb.com/business-directory/company-profiles.candora_society_of_edmonton.567aa22a0a689861a82f8509f2dfb7b3.html",
+        "value": "~$2.5M USD (D&B modeled, FY unknown)"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "Searched alberta.ca for Candora + CIP Operating; no match surfaced.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "Valerie Cudmore",
+      "title": "Executive Director",
+      "url": "https://ca.linkedin.com/company/candoraedmonton"
+    },
+    "unknowns": [
+      "Actual T3010 revenue",
+      "Any CIP history",
+      "Overdue/incomplete ministry reporting (never publicly verifiable)",
+      "Whether they already applied for CIP-ODC Oct 15, 2026",
+      "Board appetite for an org-development project"
+    ],
+    "risks": [
+      "ED name came from a search summary with no pinned page (listed sources: LinkedIn, 211, candora.ca board page); verify",
+      "Revenue is modeled"
+    ],
+    "outreach_angle": "Long-running NE Edmonton community development org at a size where $50K for strategy, systems and fund development is material.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "Stop Abuse in Families (SAiF) Society",
+    "city": "St. Albert",
+    "website": "https://www.saifsociety.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "'The Stop Abuse in Families (SAiF) Society was incorporated in 1989.' Charity Data profile under BN 120971304RR0001.",
+        "url": "https://www.charitydata.ca/charity/stop-abuse-in-families-saif-society/120971304RR0001/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Chamber listing: 'Stop Abuse in Families (SAIF) Society | St. Albert, AB . (780) 460-2195'.",
+        "url": "http://m.stalbert.chambermaster.com/Mobile/Members/memberdetails/stop-abuse-in-families-saif-society"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "'Free services to individuals experiencing family violence, including individual counselling, group counselling, youth counselling and community education programs.' Open to residents of St Albert, Edmonton, Sturgeon, Parkland. No faith requirement.",
+        "url": "https://www.saifsociety.ca/counselling-programs/"
+      },
+      "A4_revenue_100k": {
+        "status": "MET",
+        "evidence": "'The organization has a $600,000 budget which supports operational costs as well as one full-time employee and eight part-time staff.'",
+        "url": "https://www.stalbertgazette.com/lifestyle/saif-society-remounts-red-shoe-gala-11342421",
+        "value": "~$600K budget (per St. Albert Gazette, ~2024/25)"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "Gazette: 'SAiF is 100% funded by donors, charitable organizations, and project grants' - no CIP Operating mention.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "Demand growth outpacing capacity: 'In 2020, SAiF supported 789 clients, but by 2024, the numbers spiked to 2,616' on a $600K budget with one full-time staff. Also had an interim ED (Gazette 'SAiF has new interim director').",
+        "url": "https://www.stalbertgazette.com/lifestyle/saif-society-remounts-red-shoe-gala-11342421"
+      }
+    },
+    "contact": {
+      "name": "Mark Dixon",
+      "title": "Executive Director (appointed interim; current title per search summary)",
+      "url": "https://www.stalbertgazette.com/local-news/saif-has-new-interim-director-6005985"
+    },
+    "unknowns": [
+      "Date of interim ED article; whether Mark Dixon is still ED",
+      "T3010 revenue",
+      "Overdue/incomplete ministry reporting (never publicly verifiable)",
+      "Whether they already applied for CIP-ODC Oct 15, 2026",
+      "Board appetite for an org-development project"
+    ],
+    "risks": [
+      "ED info may be stale",
+      "Heavy reliance on gala/donations"
+    ],
+    "outreach_angle": "Client load more than tripled 2020-2024 on a $600K budget with one full-time staffer. ODC funds the staffing model, systems and fund-development plan to scale sustainably.",
+    "self_confidence": "High"
+  },
+  {
+    "org": "Fort Saskatchewan Families First Society",
+    "city": "Fort Saskatchewan",
+    "website": "https://www.familiesfirstsociety.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "'Registered not-for-profit located at 9901 90 Street, Fort Saskatchewan, and it's a charitable organization'; CanadaHelps charity profile exists.",
+        "url": "https://www.canadahelps.org/en/charities/fort-saskatchewan-families-first-society/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "'located at 9901 90 Street, Fort Saskatchewan'",
+        "url": "https://ab.211.ca/record/1127851/agency/"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "Services (early childhood, parenting, domestic violence) look secular, but no explicit statement found; ED previously served with The Salvation Army.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "MET",
+        "evidence": "'Families First Society annual revenue was $6 million in 2025' (RocketReach); ZoomInfo says 'less than $5 Million'.",
+        "url": "https://rocketreach.co/families-first-society-profile_b45df566fc67c8cb",
+        "value": "$5M-$6M (third-party estimates, 2025)"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "'Darryl Burry assumed the role of executive director in June 2024 after the departure of Jaqueline Dagneau'; 'the Board recently updated the society Bylaws, implementing a membership avenue and introducing term limits on Executive and Board members.'",
+        "url": "https://irp.cdn-website.com/76d1fd3d/files/uploaded/AGM+Report+2024-25+(condensed).pdf"
+      }
+    },
+    "contact": {
+      "name": "Darryl Burry",
+      "title": "Executive Director",
+      "url": "https://ca.linkedin.com/in/darryl-burry-ma"
+    },
+    "unknowns": [
+      "Exact audited revenue",
+      "Faith stance (confirm secular)",
+      "Overdue/incomplete ministry reporting (never publicly verifiable)",
+      "Whether they already applied for CIP-ODC Oct 15, 2026",
+      "Board appetite for an org-development project"
+    ],
+    "risks": [
+      "Revenue above the $3M sweet spot; $50K is smaller relative to budget",
+      "Revenue figures are third-party estimates"
+    ],
+    "outreach_angle": "New ED (June 2024) plus new bylaws and board term limits: a governance reset ready for an ODC-funded strategic plan and board development.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "A Safe Place (Strathcona Shelter Society Ltd.)",
+    "city": "Sherwood Park (Strathcona County)",
+    "website": "https://www.asafeplace.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "'A Safe Place is a registered charity operated by the Strathcona Shelter Society Ltd., governed by a volunteer Board of Directors.' CanadaHelps profile exists.",
+        "url": "https://www.canadahelps.org/en/charities/strathcona-shelter-society-ltd/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Facebook page: 'Strathcona Shelter Society Ltd. \"A Safe Place\" | Sherwood Park AB'.",
+        "url": "https://www.facebook.com/ASafePlaceSSS/"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "'a 35-bed emergency shelter for women, with or without children, fleeing abuse.' No faith requirement mentioned.",
+        "url": "https://www.asafeplace.ca/about/"
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "35-bed shelter implies revenue well above $100K, but no figure found. Not inferred.",
+        "url": ""
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in search results.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "Recent rebrand ('A Safe Place has a new look') shows some org-development activity; no strategic plan/leadership transition evidence.",
+        "url": "https://www.asafeplace.ca/a-safe-place-has-a-new-look/"
+      }
+    },
+    "contact": {
+      "name": "Karen Kadatz",
+      "title": "Executive Director (per org site, date unclear)",
+      "url": "https://www.asafeplace.ca/a-safe-place-has-a-new-look/"
+    },
+    "unknowns": [
+      "Revenue",
+      "Current ED (older sources name Pat Vargas, Mike Cameron)",
+      "Overdue/incomplete ministry reporting (never publicly verifiable)",
+      "Whether they already applied for CIP-ODC Oct 15, 2026",
+      "Board appetite for an org-development project"
+    ],
+    "risks": [
+      "Shelter core funding largely provincial (Children & Family Services); may be above target band",
+      "Leadership info conflicting across sources"
+    ],
+    "outreach_angle": "Post-rebrand shelter; ODC can fund the strategic-planning, board and systems work that shelter operating contracts don't cover.",
+    "self_confidence": "Medium"
+  }
+]

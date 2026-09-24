@@ -1,0 +1,634 @@
+[
+ {
+  "id": 19,
+  "org": "Alberta Immigrant Women & Children Centre",
+  "verdict": "CONDITIONAL",
+  "score": 38,
+  "confidence": "Medium",
+  "benevity_check": "Match: 'ALBERTA IMMIGRANT WOMEN & CHILDREN CENTRE', 13415C Fort Rd NW, Edmonton AB T5A1C6. Description says 'registered charitable organization in Edmonton'. No website on file. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Registered charity (BN 806741765RR0001 per CharityData; Benevity lists it at an Edmonton address) that got a CIP Operational Assistance grant in 2020-21.",
+  "evidence": [
+   {
+    "claim": "Registered charity",
+    "url": "https://www.charitydata.ca/charity/alberta-immigrant-women-and-children-centre/806741765RR0001/",
+    "snippet": "ALBERTA IMMIGRANT WOMEN & CHILDREN CENTRE, BN 806741765RR0001"
+   },
+   {
+    "claim": "Past CIP Operating (2020-21)",
+    "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2",
+    "snippet": "Alberta Immigrant Women & Children Centre receiving a CIP - Operational Assistance 2021 grant in Edmonton (amount truncated)"
+   },
+   {
+    "claim": "Alberta address",
+    "url": "Benevity cause ce80300f-6690-48b2-abe0-ee2dd89b3e5a",
+    "snippet": "13415C FORT RD NW, EDMONTON AB T5A1C6"
+   }
+  ],
+  "unknowns": [
+   "Revenue (no figure at all)",
+   "CIP award amount",
+   "Leadership and contact",
+   "Website (none on Benevity either)",
+   "Any org-development signal",
+   "Registration date"
+  ],
+  "disqualification_risks": [
+   "The CIP evidence is from 2020-21, which is pre-2022 and a weak signal",
+   "No website suggests a small org. Revenue could be under $100K, which would cap the award below $50K"
+  ],
+  "contact": "UNKNOWN. No website found. Reach them through the Benevity or CharityData listing, or at 13415C Fort Rd NW, Edmonton.",
+  "outreach_angle": "You held CIP Operating funding in 2020-21. That stream is gone. The Oct 15, 2026 CIP-ODC intake is its replacement, and it pays for systems, governance and fund development rather than programs.",
+  "challenges_raised": "A1 held up: the RR BN and Benevity agree. S1 is genuine Operating-stream evidence, but it is from 2020-21 (pre-2022), so I scored it at half weight. With no revenue, no signal and no contact, it cannot PASS."
+ },
+ {
+  "id": 20,
+  "org": "Creating Hope Society of Alberta",
+  "verdict": "CONDITIONAL",
+  "score": 37,
+  "confidence": "Medium",
+  "benevity_check": "Match: 'Creating Hope Society of Alberta', 4 - 10865 96 St NW, Edmonton AB T5H2K2. No description or website. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Awarded $75,000 CIP Operational Assistance in 2020-21 for a Program Coordinator and operating costs. Benevity lists it at an Edmonton address.",
+  "evidence": [
+   {
+    "claim": "Past CIP Operating $75K (2020-21)",
+    "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2",
+    "snippet": "Creating Hope Society of Alberta in Edmonton was awarded $75,000 for CIP - Operational Assistance 2021 for Program Coordinator and operating costs."
+   },
+   {
+    "claim": "Alberta address / charity listing",
+    "url": "Benevity cause 0272dd0d-047b-4230-b8f2-7f8475ff3486",
+    "snippet": "4 - 10865 96 ST NW, EDMONTON AB T5H2K2"
+   }
+  ],
+  "unknowns": [
+   "CRA BN and registration status (the discovery marked it UNKNOWN; a Benevity listing strongly suggests a charity but shows no number)",
+   "Revenue",
+   "Contact",
+   "Website",
+   "Org-development signal"
+  ],
+  "disqualification_risks": [
+   "The CIP evidence is from 2020-21, which is pre-2022",
+   "It may depend on the lost operating dollars, and CIP-ODC does not fund ongoing program staff"
+  ],
+  "contact": "UNKNOWN. No website on Benevity. Mailing address: 4 - 10865 96 St NW, Edmonton.",
+  "outreach_angle": "Your $75K CIP Operating grant paid for a coordinator, and that stream has now closed. CIP-ODC (deadline Oct 15, 2026) can fund a sustainability and fund-development plan to replace that dependency.",
+  "challenges_raised": "The discovery had A1 as UNKNOWN. Benevity confirms a charity listing and an Edmonton address, so A1 and A2 are partly verified. S1 is the right stream but from 2020-21, so I scored it at half weight. Revenue is not evidenced (a $75K award does not prove revenue of $100K or more)."
+ },
+ {
+  "id": 21,
+  "org": "The Candora Society of Edmonton",
+  "verdict": "REJECT",
+  "score": 25,
+  "confidence": "Medium",
+  "benevity_check": "Match: 'THE CANDORA SOCIETY OF EDMONTON', 262-3210 118 Ave NW, Edmonton AB T5W4W1. Verified website link on file. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Registered charity (BN 133583120RR0001 per CharityData; Benevity confirms an Edmonton address). The evidence does not show a priority signal.",
+  "evidence": [
+   {
+    "claim": "Registered charity",
+    "url": "https://www.charitydata.ca/charity/the-candora-society-of-edmonton/133583120RR0001/",
+    "snippet": "THE CANDORA SOCIETY OF EDMONTON, BN 133583120RR0001"
+   },
+   {
+    "claim": "Alberta address",
+    "url": "Benevity cause 9d5f6085-5c10-4ef0-8091-84658eabdca0",
+    "snippet": "262-3210 118 AVE NW, EDMONTON AB T5W4W1"
+   }
+  ],
+  "unknowns": [
+   "Revenue (the D&B $2.5M is a modeled estimate only)",
+   "Past CIP Operating",
+   "Org-development signal",
+   "Current ED"
+  ],
+  "disqualification_risks": [
+   "No priority signal, so outreach would be cold",
+   "The A3 secular evidence comes from an undated provincial PDF"
+  ],
+  "contact": "UNVERIFIED: Valerie Cudmore, Executive Director (from a search summary, sourced only to the LinkedIn company page). General site: http://www.candora.ca/",
+  "outreach_angle": "If this is revisited: a long-running NE Edmonton community-development org. CIP-ODC (Oct 15, 2026) could fund a strategic plan and fund-development systems.",
+  "challenges_raised": "I downgraded A4 from MET to UNKNOWN (D&B modeled estimate only). I marked the contact UNVERIFIED because no specific page names her. Gates only, with no S1 or S2, is too thin for priority outreach. Revisit if CIP or revenue evidence turns up."
+ },
+ {
+  "id": 22,
+  "org": "Stop Abuse in Families (SAiF) Society",
+  "verdict": "PASS",
+  "score": 60,
+  "confidence": "High",
+  "benevity_check": "Match: 'Stop Abuse in Families (SAiF) Society', 64 Riel Dr, St Albert AB T8N 4A4. Description says 'Since 1988'. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Incorporated 1989 and a registered charity (BN 120971304RR0001) based in St. Albert. It has a stated $600K budget and client load rose from 789 (2020) to 2,616 (2024) with one full-time staff member.",
+  "evidence": [
+   {
+    "claim": "Registered charity, incorporated 1989",
+    "url": "https://www.charitydata.ca/charity/stop-abuse-in-families-saif-society/120971304RR0001/",
+    "snippet": "The Stop Abuse in Families (SAiF) Society was incorporated in 1989."
+   },
+   {
+    "claim": "Budget $600K",
+    "url": "https://www.stalbertgazette.com/lifestyle/saif-society-remounts-red-shoe-gala-11342421",
+    "snippet": "The organization has a $600,000 budget which supports operational costs as well as one full-time employee and eight part-time staff."
+   },
+   {
+    "claim": "Demand outpacing capacity",
+    "url": "https://www.stalbertgazette.com/lifestyle/saif-society-remounts-red-shoe-gala-11342421",
+    "snippet": "In 2020, SAiF supported 789 clients, but by 2024, the numbers spiked to 2,616"
+   },
+   {
+    "claim": "Secular, open services",
+    "url": "https://www.saifsociety.ca/counselling-programs/",
+    "snippet": "Free services to individuals experiencing family violence, including individual counselling, group counselling, youth counselling..."
+   }
+  ],
+  "unknowns": [
+   "Past CIP Operating (the Gazette says it is funded by donors, charitable orgs and project grants, with no CIP Operating mention)",
+   "Whether the current ED is still Mark Dixon",
+   "Budget is not audited revenue"
+  ],
+  "disqualification_risks": [
+   "None found"
+  ],
+  "contact": "PARTIALLY VERIFIED: Mark Dixon, named interim ED in the St. Albert Gazette (https://www.stalbertgazette.com/local-news/saif-has-new-interim-director-6005985). The article looks to be several years old and his current title is unconfirmed. Confirm via https://www.saifsociety.ca/",
+  "outreach_angle": "Client load has tripled since 2020 on a $600K budget with one full-time staff member. CIP-ODC (deadline Oct 15, 2026) can fund the staffing model, systems and fund-development plan to carry that growth.",
+  "challenges_raised": "I accepted the $600K budget as revenue evidence (a direct quote, not an estimate). S1 is not met. The contact comes from an older 'interim' article, so I lowered the contact weight. Benevity confirms the entity and address."
+ },
+ {
+  "id": 23,
+  "org": "Fort Saskatchewan Families First Society",
+  "verdict": "PASS",
+  "score": 57,
+  "confidence": "Medium",
+  "benevity_check": "Match: 'FORT SASKATCHEWAN FAMILIES FIRST SOCIETY', PO Box 3285, Fort Saskatchewan AB T8L2T3. Description: '12 permanent and several contract staff'. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Charity (CanadaHelps and Benevity) in Fort Saskatchewan. Its 2024-25 AGM report documents a new ED (June 2024), a bylaw rewrite and new board term limits.",
+  "evidence": [
+   {
+    "claim": "Charity and Alberta address",
+    "url": "https://www.canadahelps.org/en/charities/fort-saskatchewan-families-first-society/",
+    "snippet": "Registered not-for-profit located at 9901 90 Street, Fort Saskatchewan, and it's a charitable organization"
+   },
+   {
+    "claim": "Governance reset and new ED",
+    "url": "https://irp.cdn-website.com/76d1fd3d/files/uploaded/AGM+Report+2024-25+(condensed).pdf",
+    "snippet": "Darryl Burry assumed the role of executive director in June 2024 ... the Board recently updated the society Bylaws, implementing a membership avenue and introducing term limits"
+   },
+   {
+    "claim": "Staffing scale",
+    "url": "Benevity cause a259bc6f-5f9a-4745-9110-84ca6b90c3e5",
+    "snippet": "with the help of 12 permanent and several contract staff and volunteers"
+   }
+  ],
+  "unknowns": [
+   "Revenue (RocketReach $6M and ZoomInfo <$5M are estimates only; 12 permanent staff makes $100K+ plausible but that is not evidence)",
+   "Past CIP Operating",
+   "CRA BN not seen"
+  ],
+  "disqualification_risks": [
+   "If revenue really is several million, $50K is a small lever",
+   "No faith requirement found. The ED's prior Salvation Army role is not an org disqualifier"
+  ],
+  "contact": "Darryl Burry, Executive Director (named in the AGM Report 2024-25: https://irp.cdn-website.com/76d1fd3d/files/uploaded/AGM+Report+2024-25+(condensed).pdf)",
+  "outreach_angle": "The board just rewrote the bylaws and added term limits under a new ED. The Oct 15, 2026 CIP-ODC intake can fund the strategic plan and board development that finishes that reset.",
+  "challenges_raised": "I downgraded A4 from MET to UNKNOWN (RocketReach and ZoomInfo are estimates only). I re-sourced the contact from LinkedIn to the org's own AGM report, so it is verified. The S2 evidence is primary and strong."
+ },
+ {
+  "id": 24,
+  "org": "A Safe Place (Strathcona Shelter Society Ltd.)",
+  "verdict": "CONDITIONAL",
+  "score": 30,
+  "confidence": "Medium",
+  "benevity_check": "Match: 'STRATHCONA SHELTER SOCIETY LTD.', PO Box 3282 Stn Main, Sherwood Park AB T8H2T2. Emergency shelter for women and children. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Registered charity (CanadaHelps; Benevity listing) running a 35-bed women's emergency shelter in Sherwood Park.",
+  "evidence": [
+   {
+    "claim": "Registered charity",
+    "url": "https://www.canadahelps.org/en/charities/strathcona-shelter-society-ltd/",
+    "snippet": "A Safe Place is a registered charity operated by the Strathcona Shelter Society Ltd., governed by a volunteer Board of Directors."
+   },
+   {
+    "claim": "Secular service",
+    "url": "https://www.asafeplace.ca/about/",
+    "snippet": "a 35-bed emergency shelter for women, with or without children, fleeing abuse."
+   }
+  ],
+  "unknowns": [
+   "Legal form: 'Ltd.' likely means Companies Act Part 9 (an accepted Act), but this is unconfirmed",
+   "Revenue (not inferred)",
+   "Past CIP Operating",
+   "Org-development need (a rebrand alone is weak)",
+   "Current ED"
+  ],
+  "disqualification_risks": [
+   "The 'Ltd.' suffix must be confirmed as a Part 9 non-profit company, not a for-profit. Registered-charity status mitigates this",
+   "Large provincial shelter contracts may put the budget well above the target band"
+  ],
+  "contact": "PARTIALLY VERIFIED: Karen Kadatz, Executive Director (org post 'A Safe Place has a new look', undated: https://www.asafeplace.ca/a-safe-place-has-a-new-look/). Discovery flagged conflicting leadership info.",
+  "outreach_angle": "Shelter operating contracts rarely cover strategy or board work. The Oct 15, 2026 CIP-ODC intake can fund the strategic plan that follows your rebrand.",
+  "challenges_raised": "Checked 'Ltd.' against the ICP accepted-Acts list: Companies Act Part 9 is eligible, and Benevity and CanadaHelps list it as a charity, so it is not disqualifying. I gave the S2 rebrand no credit. No S1 and no revenue."
+ },
+ {
+  "id": 25,
+  "org": "Camrose Women's Shelter Society",
+  "verdict": "PASS",
+  "score": 62,
+  "confidence": "Medium",
+  "benevity_check": "Match: 'Camrose Women's Shelter Society', PO Box 1405, Camrose AB T4V1X3 (same as the org's contact page). 22-bed residence. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Listed (per a search summary of the PDF) on the 2024-25 CIP Operating approved list for $75,000. Charity with a Camrose address confirmed by Benevity, and a named ED on its own site.",
+  "evidence": [
+   {
+    "claim": "CIP Operating 2024-25, $75K",
+    "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf",
+    "snippet": "Camrose Women's Shelter Society, $75,000 (administrative costs, auditing, insurance, staff wages and salaries, utilities) [search-engine summary of the PDF; PDF not opened]"
+   },
+   {
+    "claim": "Alberta address",
+    "url": "https://camrosewomenshelter.org/contact-us/",
+    "snippet": "Post Office Box 1405, Camrose, Alberta, T4V 1X3"
+   },
+   {
+    "claim": "Registered charity",
+    "url": "https://www.canadahelps.org/en/charities/camrosewomenshelter/",
+    "snippet": "designated by the Canada Revenue Agency as a registered charity"
+   }
+  ],
+  "unknowns": [
+   "Revenue (a 22-bed shelter is plausibly well above $100K, but no figure)",
+   "Org-development signal",
+   "The PDF line itself (only a search summary was seen)"
+  ],
+  "disqualification_risks": [
+   "The S1 evidence is a search summary of the PDF, not the document itself. Open the PDF before outreach",
+   "Discovery's claim that CIP-ODC 'doesn't require matching funds' is not in the ICP doc. Do not use it"
+  ],
+  "contact": "Nora-Lee Rear, Executive Director (https://camrosewomenshelter.org/about-us/)",
+  "outreach_angle": "You held a $75K CIP Operating grant in 2024-25, and that stream has closed. CIP-ODC (deadline Oct 15, 2026) is its replacement and pays for admin, systems and governance capacity.",
+  "challenges_raised": "The S1 is recent and the right stream, but I deducted points because it rests on a search-engine summary. I removed the unverified 'no matching funds' claim from the angle. Benevity confirms the entity and address."
+ },
+ {
+  "id": 26,
+  "org": "Big Brothers Big Sisters Association of Medicine Hat & District",
+  "verdict": "PASS",
+  "score": 66,
+  "confidence": "Medium",
+  "benevity_check": "Match: 'Big Brothers Big Sisters Medicine Hat & District', 1002 Allowance Avenue SE, Medicine Hat AB T1A 3G8. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Listed (per a search summary of the PDF) on 2024-25 CIP Operating Intake 1 for $75,000 (rent, wages). Registered charity per CanadaHelps, with a Medicine Hat address confirmed by Benevity.",
+  "evidence": [
+   {
+    "claim": "CIP Operating 2024-25, $75K",
+    "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf",
+    "snippet": "Big Brothers/Big Sisters Association of Medicine Hat and District, Medicine Hat, $75,000 (rent, staff wages and salaries) [search summary; PDF not opened]"
+   },
+   {
+    "claim": "Registered charity",
+    "url": "https://www.canadahelps.org/en/charities/big-brothersbig-sisters-association-of-medicine-hat-and-district/",
+    "snippet": "designated by the Canada Revenue Agency as a registered charity"
+   },
+   {
+    "claim": "Funding fragility",
+    "url": "https://medicinehatnews.com/news/local-news/2026/03/24/more-than-70k-raised-at-bowl-for-kids-sake/",
+    "snippet": "does not receive government funding on an ongoing basis ... Bowl for Kids' Sake raised more than $70K (largest source of funding)"
+   }
+  ],
+  "unknowns": [
+   "Total revenue. If a $70K event is the largest source, revenue could sit near the floor and the 50% formula may cap the award under $50K",
+   "Strategic plan or transition status"
+  ],
+  "disqualification_risks": [
+   "Revenue near $100K would reduce the award",
+   "S1 rests on a search summary of the PDF"
+  ],
+  "contact": "Ashley Turner, Executive Director (https://medicinehat.bigbrothersbigsisters.ca/contact-us/)",
+  "outreach_angle": "Your $75K CIP Operating grant covered rent and wages, and it will not renew. You rely on one event. CIP-ODC (deadline Oct 15, 2026) can fund a fund-development and revenue-diversification plan.",
+  "challenges_raised": "S2 is inference (funding fragility, not a documented org-dev initiative), so I gave it half weight. The revenue risk is real: the 'largest source' figure implies a small budget. S1 was scored below full because it is a search summary."
+ },
+ {
+  "id": 27,
+  "org": "Big Brothers Big Sisters Association of Wood Buffalo",
+  "verdict": "PASS",
+  "score": 68,
+  "confidence": "Medium",
+  "benevity_check": "Match: 'BIG BROTHERS BIG SISTERS ASSOCIATION OF WOOD BUFFALO', 202-604 Signal Road, Fort McMurray AB T9H 4Z4. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Listed (per a search summary of the PDF) on 2024-25 CIP Operating Intake 1 for $73,250. Charity with a Fort McMurray address confirmed by Benevity. New ED appointed Oct 2024.",
+  "evidence": [
+   {
+    "claim": "CIP Operating 2024-25, $73,250",
+    "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf",
+    "snippet": "Big Brothers Big Sisters Association of Wood Buffalo, Fort McMurray, $73,250 (insurance, rent, staff training, staff wages and salaries) [search summary; PDF not opened]"
+   },
+   {
+    "claim": "Leadership transition",
+    "url": "https://www.play1037.ca/2024/10/17/youth-mentorship-in-focus-as-big-brothers-big-sisters-wood-buffalo-appoints-new-executive-director/",
+    "snippet": "BBBS Wood Buffalo appoints new Executive Director Hanna Fridhed-Campbell, succeeding Julie Penney"
+   },
+   {
+    "claim": "Charity listing and address",
+    "url": "Benevity cause 44fa091f-a8b9-4d30-a46c-f0504bd53de5",
+    "snippet": "202-604 Signal Road, Fort McMurray AB T9H 4Z4"
+   }
+  ],
+  "unknowns": [
+   "Revenue (the RocketReach $16.4M was correctly discarded; audited statements exist on the annual-report page but were not read)",
+   "CRA BN not seen"
+  ],
+  "disqualification_risks": [
+   "The ED transition is about 2 years old, so the signal is fading",
+   "S1 rests on a search summary of the PDF"
+  ],
+  "contact": "Hanna Fridhed-Campbell, Executive Director (as of Oct 2024: https://www.play1037.ca/2024/10/17/youth-mentorship-in-focus-as-big-brothers-big-sisters-wood-buffalo-appoints-new-executive-director/). Currency unconfirmed.",
+  "outreach_angle": "You used $73K of CIP Operating funding for staff training and wages, and that stream has closed. CIP-ODC (deadline Oct 15, 2026) can fund the strategic plan and leadership-capacity work that follows an ED transition.",
+  "challenges_raised": "The discovery had A1 as UNKNOWN. The Benevity listing supports charity status (no number shown). S1 was scored below full because it is a search summary. The contact is sourced but two years old."
+ },
+ {
+  "id": 28,
+  "org": "Edson Friendship Centre",
+  "verdict": "PASS",
+  "score": 62,
+  "confidence": "Medium",
+  "benevity_check": "Match: 'Edson Friendship Centre', 13A 5023-3rd Ave, Edson AB T7E1X7. Services: early intervention, preschool, family support, youth at risk, rural homelessness. No website on file. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Registered charity (BN 101580918RR0001), est. 1986, in Edson. Listed (per a search summary) on 2024-25 CIP Operating for $74,000.",
+  "evidence": [
+   {
+    "claim": "Registered charity",
+    "url": "https://www.charitydata.ca/charity/edson-friendship-centre/101580918RR0001/",
+    "snippet": "Business No. 101580918RR0001. Established in 1986."
+   },
+   {
+    "claim": "CIP Operating 2024-25, $74K",
+    "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf",
+    "snippet": "Edson Friendship Centre, $74,000 (admin, auditing, data collection, evaluation, staff training, wages) [search summary; PDF not opened]"
+   },
+   {
+    "claim": "Open access",
+    "url": "https://www.canadahelps.org/en/charities/edson-friendship-centre/",
+    "snippet": "Aboriginal and non-Aboriginal people of Edson and area who are in need"
+   }
+  ],
+  "unknowns": [
+   "Revenue",
+   "Org-development signal (spending CIP on evaluation is inference, not a need)",
+   "Federal core funding level"
+  ],
+  "disqualification_risks": [
+   "S1 rests on a search summary of the PDF",
+   "None found otherwise"
+  ],
+  "contact": "Kristie Gomuwka, Executive Director (https://www.edsonfriendshipcentre.org/about)",
+  "outreach_angle": "Your $74K CIP Operating grant paid for evaluation, data and staff training. CIP-ODC (deadline Oct 15, 2026) is the direct successor for that capacity work.",
+  "challenges_raised": "I downgraded S2 to UNKNOWN because it was inferred from how they spent the grant. Benevity confirms the entity and address. S1 was scored below full because it is a search summary."
+ },
+ {
+  "id": 29,
+  "org": "Learning Disabilities Association of Alberta - Red Deer Chapter",
+  "verdict": "REJECT",
+  "score": 15,
+  "confidence": "Low",
+  "benevity_check": "No match for the Red Deer Chapter. Benevity lists 'LEARNING DISABILITIES ASSOCIATION OF ALBERTA' (Box 29011 Pleasantview PO, Edmonton AB T6H 5Z6; est. 1968 under the Societies Act) and a separate Edmonton Chapter only.",
+  "why_qualifies": "Only evidence: a 2016-17 CIP Operating grant ($40,000, Administrative Coordinator) from a search summary of the PDF.",
+  "evidence": [
+   {
+    "claim": "CIP Operating 2016-17",
+    "url": "https://open.alberta.ca/dataset/77872865-51a2-43d9-bc26-4dcd7dfc552e/resource/59133b31-852d-4418-a597-06a676e58e3d/download/cip-q3-q4.pdf",
+    "snippet": "Learning Disabilities Association of Alberta - Red Deer Chapter, Administrative Coordinator, Red Deer-South, $40,000 [search summary]"
+   }
+  ],
+  "unknowns": [
+   "Whether the Red Deer Chapter is a separate incorporated entity, and whether it still exists",
+   "Revenue",
+   "Contact",
+   "Website"
+  ],
+  "disqualification_risks": [
+   "It may not be a separate legal entity, in which case the provincial body applies",
+   "A signal from 2016-17 is roughly 9 years old",
+   "Possibly inactive, since there is no web presence found"
+  ],
+  "contact": "UNKNOWN. Try the provincial LDAA via its Benevity listing.",
+  "outreach_angle": "If the chapter exists: your earlier CIP Operating grant funded admin capacity, and CIP-ODC (Oct 15, 2026) now funds that kind of backbone work.",
+  "challenges_raised": "Benevity found no Red Deer Chapter entity. Combined with a 9-year-old signal and no contact, this does not justify outreach."
+ },
+ {
+  "id": 30,
+  "org": "Lethbridge Food Bank Society",
+  "verdict": "PASS",
+  "score": 58,
+  "confidence": "Medium",
+  "benevity_check": "Match: 'LETHBRIDGE FOOD BANK SOCIETY', 1016 2nd Avenue South, Lethbridge AB T1J 0C9. 'Since 1982'. Listed separately from 'Interfaith Food Bank Society of Lethbridge'. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "A distinct charity listing (Benevity) operating since 1982. The board appointed a new ED in May 2026, and monthly hamper demand is up 90% over five years with a staff of eight.",
+  "evidence": [
+   {
+    "claim": "New ED and demand growth",
+    "url": "https://lethbridgenewsnow.com/2026/05/20/new-executive-director-begins-at-lethbridge-food-bank/",
+    "snippet": "New executive director Tim Rempel ... 44th year of operation ... monthly hamper distribution up 90% over five years"
+   },
+   {
+    "claim": "Staff scale",
+    "url": "https://lethbridgeherald.com/news/lethbridge-news/2026/09/18/a-million-pounds-of-food-and-the-need-keeps-growing/",
+    "snippet": "Staff of eight and about 12,000 hampers a year"
+   },
+   {
+    "claim": "Entity distinct from Interfaith",
+    "url": "Benevity cause 3a8f3c15-b7bb-4fe9-a9b8-f05cde8149fb",
+    "snippet": "LETHBRIDGE FOOD BANK SOCIETY, 1016 2ND AVENUE SOUTH ... Since 1982"
+   }
+  ],
+  "unknowns": [
+   "Revenue (eight staff makes $100K+ plausible, but this is inference)",
+   "Past CIP Operating",
+   "CRA BN not seen"
+  ],
+  "disqualification_risks": [
+   "No faith language seen. The entity is distinct from the Interfaith Food Bank per Benevity"
+  ],
+  "contact": "Tim Rempel, Executive Director (https://lethbridgenewsnow.com/2026/05/20/new-executive-director-begins-at-lethbridge-food-bank/)",
+  "outreach_angle": "A new ED four months in, demand up 90% and a staff of eight. The Oct 15, 2026 CIP-ODC intake can fund a strategic plan and operating-model review for the new leader's first year.",
+  "challenges_raised": "Benevity settled the entity confusion: there are separate listings for the Lethbridge Food Bank Society and the Interfaith Food Bank. That verifies A1. S2 is fresh and primary-sourced. Revenue is not evidenced."
+ },
+ {
+  "id": 31,
+  "org": "Volunteer Lethbridge Association",
+  "verdict": "CONDITIONAL",
+  "score": 48,
+  "confidence": "Medium",
+  "benevity_check": "Match: 'VOLUNTEER LETHBRIDGE ASSOCIATION', 324 5 St S, Lethbridge AB T1J2B5. Capacity-building support network. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Charity listing (Benevity) in Lethbridge. New ED Sandi Davis started May 2025, and the org rebuilt its model after COVID.",
+  "evidence": [
+   {
+    "claim": "New ED and model rebuild",
+    "url": "https://www.mylethbridgenow.com/53924/news/community/non-profit/volunteer-lethbridge-introduces-new-executive-director/",
+    "snippet": "New executive director Sandi Davis ... Community Volunteer Management Model to 'return capacity' to the sector"
+   },
+   {
+    "claim": "Charity listing and address",
+    "url": "Benevity cause 209e6efc-704d-4a82-95fe-3b625d4157aa",
+    "snippet": "324 5 ST S, LETHBRIDGE AB T1J2B5"
+   }
+  ],
+  "unknowns": [
+   "Revenue (it may be small, which would cap the award below $50K)",
+   "Past CIP Operating",
+   "CRA BN not seen"
+  ],
+  "disqualification_risks": [
+   "Small revenue could shrink the award",
+   "Possible relationship conflict: it is a capacity-builder that may compete with or partner on consulting services. Check before outreach"
+  ],
+  "contact": "Sandi Davis, Executive Director (named in https://www.mylethbridgenow.com/53924/news/community/non-profit/volunteer-lethbridge-introduces-new-executive-director/)",
+  "outreach_angle": "Your ED is 16 months in and you build capacity for other Lethbridge nonprofits. CIP-ODC (Oct 15, 2026) can fund your own strategic plan, and you could act as fiscal agent for a Collaboratives bid of up to $100K.",
+  "challenges_raised": "Benevity confirms A1, which the discovery had as UNKNOWN. I re-sourced the contact from LinkedIn to the news article. It is held at CONDITIONAL because revenue is unknown and likely small, and because of a possible adjacency conflict with a capacity-building consultancy."
+ },
+ {
+  "id": 32,
+  "org": "The SPEC Association for Children and Families",
+  "verdict": "CONDITIONAL",
+  "score": 33,
+  "confidence": "Low",
+  "benevity_check": "Match: 'THE SPEC ASSOCIATION FOR CHILDREN AND FAMILIES', 101, 327 3rd Street West, Brooks AB T1R0E7. 'Established in 1978'. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Charity listing (Benevity) in Brooks, operating since 1978. It appears (per a search summary) on a 2024-25 CIP Project-Based list for payroll software.",
+  "evidence": [
+   {
+    "claim": "CIP Project-Based (not Operating)",
+    "url": "https://www.alberta.ca/system/files/acsw-cip-project-based-approved-applicants-2024-25-t2.pdf",
+    "snippet": "SPEC Payroll Software, Brooks [search summary; PDF not opened]"
+   },
+   {
+    "claim": "Established 1978, Brooks",
+    "url": "Benevity cause d9b60f2d-7d64-4c5f-a16b-5513c6dd439a",
+    "snippet": "Established in 1978, the SPEC Association for Children & Families ... 101, 327 3RD STREET WEST, BROOKS"
+   }
+  ],
+  "unknowns": [
+   "Revenue",
+   "Contact",
+   "Whether the project grant is still open"
+  ],
+  "disqualification_risks": [
+   "S1 is NOT met: this is the Project stream, not Operating",
+   "Evidence rests on search summaries"
+  ],
+  "contact": "UNKNOWN. Reach them through the Benevity listing, or at 101, 327 3rd St W, Brooks.",
+  "outreach_angle": "You already used CIP to modernize payroll. CIP-ODC (Oct 15, 2026) funds the next layer: HR, finance and governance systems.",
+  "challenges_raised": "Benevity confirms A1, which the discovery had as UNKNOWN. S1 is correctly NOT met. I gave the S2 payroll-software item half weight, since it shows a systems investment rather than a need."
+ },
+ {
+  "id": 33,
+  "org": "Central Alberta Sexual Assault Support Centre",
+  "verdict": "CONDITIONAL",
+  "score": 25,
+  "confidence": "Low",
+  "benevity_check": "No match under this name. Benevity surfaced 'Sendero Centre' (Red Deer; 70 College Circle, Red Deer AB T4R 0V4; sexual abuse and sexual assault support), which may be a renamed CASASC. Unverified. Also 'Central Alberta Child Advocacy Centre Ltd.', whose description names CASASC as a partner.",
+  "why_qualifies": "Red Deer sexual assault support agency, planned co-location in the Centre of Excellence for Children and Youth. Current legal name unconfirmed.",
+  "evidence": [
+   {
+    "claim": "Facility and operating-model transition",
+    "url": "https://majorprojects.alberta.ca/details/Centre-of-Excellence-for-Children-and-Youth-Central-Alberta/10621",
+    "snippet": "To be housed in the Centre of Excellence for Children and Youth building"
+   },
+   {
+    "claim": "Past CIP (Project stream, 2016-17)",
+    "url": "https://open.alberta.ca/dataset/77872865-51a2-43d9-bc26-4dcd7dfc552e/resource/59133b31-852d-4418-a597-06a676e58e3d/download/cip-q3-q4.pdf",
+    "snippet": "Family Intervention Program, $49,968 [Project stream; search summary]"
+   }
+  ],
+  "unknowns": [
+   "Current legal name (possibly Sendero Centre)",
+   "Registration",
+   "Revenue (possibly large provincial contracts)",
+   "Contact"
+  ],
+  "disqualification_risks": [
+   "Entity identity is unresolved",
+   "S1 not met (Project stream, 2016-17)"
+  ],
+  "contact": "UNKNOWN. If it is now Sendero Centre, use its Benevity listing and the 70 College Circle, Red Deer address.",
+  "outreach_angle": "Moving into a shared hub changes governance, staffing and systems. CIP-ODC (Oct 15, 2026), either Individual or Collaboratives with CACAC, can fund the transition planning.",
+  "challenges_raised": "I downgraded A1 to UNKNOWN because 'CIP recipient since 2016-17' is inference about current registration. Benevity has no record under this name, so confirm the Sendero Centre rebrand before any outreach."
+ },
+ {
+  "id": 34,
+  "org": "The John Howard Society of Red Deer",
+  "verdict": "REJECT",
+  "score": 25,
+  "confidence": "Medium",
+  "benevity_check": "Match: 'THE JOHN HOWARD SOCIETY OF RED DEER', 4916 50 St, Red Deer AB T4N1X7. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Registered charity (BN 119239606RR0001) in Red Deer, confirmed on Benevity. No priority signal.",
+  "evidence": [
+   {
+    "claim": "Registered charity",
+    "url": "https://www.charitydata.ca/charity/john-howard-society-of-red-deer/119239606RR0001/",
+    "snippet": "BN 119239606RR0001"
+   },
+   {
+    "claim": "Alberta address",
+    "url": "Benevity cause fa9b83a9-3a81-4bdf-b6cd-a4977c43fe8b",
+    "snippet": "4916 50 ST, RED DEER AB T4N1X7"
+   }
+  ],
+  "unknowns": [
+   "Revenue",
+   "Past CIP Operating",
+   "Org-development need",
+   "Contact"
+  ],
+  "disqualification_risks": [
+   "None found, but it passes on gates only"
+  ],
+  "contact": "UNKNOWN + https://www.jhsrd.ca/",
+  "outreach_angle": "Justice-sector nonprofits rarely get capacity dollars. CIP-ODC (Oct 15, 2026) is one of the few provincial sources for strategic and governance work.",
+  "challenges_raised": "The gates are verified, but there is no S1, S2, revenue or contact. Rejected as too thin for priority outreach. Keep it as a cold-list backfill."
+ },
+ {
+  "id": 35,
+  "org": "Wood Buffalo Wellness Society",
+  "verdict": "REJECT",
+  "score": 15,
+  "confidence": "Low",
+  "benevity_check": "Match: 'Wood Buffalo Wellness Society', PO Box 5748, Fort McMurray AB T9H4V9. Non-profit supporting people facing addiction and homelessness. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Benevity confirms a Fort McMurray charity listing. Nothing else is evidenced.",
+  "evidence": [
+   {
+    "claim": "Listing and address",
+    "url": "Benevity cause d25a5281-1208-4f9e-bd3a-ff2e7e7a88da",
+    "snippet": "non-profit organization in Fort McMurray, Alberta, dedicated to supporting individuals and families facing addiction and homelessness"
+   }
+  ],
+  "unknowns": [
+   "Registration number",
+   "Revenue",
+   "CIP history",
+   "Contact",
+   "Whether it is actually the 'Fort McMurray group' in the GBV grant story"
+  ],
+  "disqualification_risks": [
+   "The only discovery evidence (play1037 GBV grant) does not name WBWS in the quoted snippet, and Benevity describes an addiction and homelessness mandate. The link is unsupported"
+  ],
+  "contact": "UNKNOWN. Reach them through the Benevity listing.",
+  "outreach_angle": "Not recommended until there is a verified signal.",
+  "challenges_raised": "The GBV-grant snippet is an unrelated or unattributed snippet, so I removed it as evidence. Nothing left justifies outreach."
+ },
+ {
+  "id": 36,
+  "org": "Medicine Hat Women's Shelter Society",
+  "verdict": "REJECT",
+  "score": 22,
+  "confidence": "Medium",
+  "benevity_check": "Match: 'MEDICINE HAT WOMEN'S SHELTER SOCIETY', Box 2500, Medicine Hat AB T1A 8G8. Benevity details returns name and address only, not a CRA registration number.",
+  "why_qualifies": "Benevity confirms the charity listing and a Medicine Hat address. No priority signal.",
+  "evidence": [
+   {
+    "claim": "Listing and address",
+    "url": "Benevity cause 9a1ef9a9-3544-40b8-9d01-e300bef32ebc",
+    "snippet": "supports individuals who have experienced family violence by providing safe shelter, education, advocacy"
+   }
+  ],
+  "unknowns": [
+   "Revenue (likely large provincial shelter contracts)",
+   "CIP history (not found on the 2024-25 Operating list per search; not conclusive)",
+   "Contact",
+   "Org-development need"
+  ],
+  "disqualification_risks": [
+   "None found. A crowdfunding campaign is not an org-development need"
+  ],
+  "contact": "UNKNOWN. Reach them through the Benevity listing.",
+  "outreach_angle": "Not recommended until there is a signal. A sector analogy to Camrose is not evidence.",
+  "challenges_raised": "The Benevity listing is a stronger A1 than the crowdfunding page. The S2 claim was inference, so there is no signal left. Rejected as too thin."
+ }
+]

@@ -1,0 +1,643 @@
+[
+  {
+    "org": "North Rocky View Community Links Society (Community Links)",
+    "city": "Airdrie",
+    "website": "https://mycommunitylinks.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Community Links is a non-profit registered charity that has served the North Rocky View Region ... since 1982; formed in 2008 through amalgamation of Airdrie Family Services Society (1982) and North Rocky View Community Resource Centre Society (2001). CRA BN 106690241RR0001 (Benevity listing).",
+        "url": "https://causes.benevity.org/causes/124-106690241RR0001?lang=en"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Serves Airdrie, Beiseker, Crossfield, Irricana and North Rocky View.",
+        "url": "https://www.canadahelps.org/en/charities/north-rocky-view-community-links-society/"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "Family/community support agency; no faith requirement stated in any source (FCSS-style services).",
+        "url": "https://mycommunitylinks.ca/programs"
+      },
+      "A4_revenue_100k": {
+        "status": "MET",
+        "evidence": "Community Links Airdrie's annual budget is $5,736,173.72 ... relies on community donors for approximately 10% of their budget each year.",
+        "url": "https://ckc.calgaryfoundation.org/profile/north-rocky-view-community-links-community-links/",
+        "value": "$5.74M annual budget (CKC profile, year not stated)"
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "DiscoverAirdrie CIP article: 'the North Rocky View Community Links Society was awarded $75,000 in 2022/2023' (in the context of CIP operating-based grants).",
+        "url": "https://discoverairdrie.com/articles/two-airdrie-organizations-receive-provincial-funding"
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "Sara Jordan took over as executive director in January 2025, following longtime ED Brenda Hume; org has a Strategic Plan 2025-2027.",
+        "url": "https://www.airdriecityview.com/community/sara-jordan-takes-over-as-executive-director-of-community-links-11764129"
+      }
+    },
+    "contact": {
+      "name": "Sara Jordan",
+      "title": "Executive Director",
+      "url": "https://www.airdriecityview.com/community/sara-jordan-takes-over-as-executive-director-of-community-links-11764129"
+    },
+    "unknowns": [
+      "Exact stream of the 2022/23 $75K (article context = operating-based; verify in Grant Recipient DB)",
+      "Overdue ministry reporting",
+      "Whether already applying Oct 15"
+    ],
+    "risks": [
+      "$5.7M budget: $50K is <1% of budget, lower urgency",
+      "CIP Op 3-year rule means they may have reapplied 2025; check"
+    ],
+    "outreach_angle": "New ED (Jan 2025) executing a 2025-2027 strategic plan; former $75K CIP Operating recipient who lost that stream. Pitch CIP-ODC for leadership-transition/strategy-implementation capacity (systems, evaluation, succession).",
+    "self_confidence": "High"
+  },
+  {
+    "org": "Rowan House Society",
+    "city": "High River",
+    "website": "https://www.rowanhouse.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Founded in 2003 ... registered charity (CharityData BN 899496707RR0001).",
+        "url": "https://www.charitydata.ca/charity/rowan-house-society/899496707RR0001/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Address: Box 5121, High River, Alberta T1V 1M3 (Benevity).",
+        "url": "https://causes.benevity.org/"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "Crisis intervention, support and preventative education for people affected by domestic violence; no faith requirement in any source.",
+        "url": "https://www.okotoksonline.com/articles/linette-soldan-credits-rural-roots-for-shaping-her-leadership"
+      },
+      "A4_revenue_100k": {
+        "status": "MET",
+        "evidence": "In F2024 Rowan House received $905k in donations and special events; $1.7m government funding = 62% of total revenues; spent $2.1m on programs.",
+        "url": "https://www.charityintelligence.ca/charity-details/1115-rowan-house-society",
+        "value": "~$2.7M (FY ending Mar 2024, derived from Ci: $1.7M = 62%)"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "Opening of Okotoks Community Office 'made possible by the society receiving a two-year grant from the Alberta Community Initiatives program' - stream (Operating vs Project) not stated.",
+        "url": "https://www.westernwheel.ca/local-news/rowan-house-society-sets-up-okotoks-office-3638150"
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "New three-year Strategic Plan 2024-2027; first plan overseen by ED Linette Soldan, who joined just over two years earlier. Plan ends 2027 so renewal work falls in the 24-month grant window.",
+        "url": "https://www.okotoksonline.com/articles/rowan-house-society-shares-details-of-new-strategic-plan"
+      }
+    },
+    "contact": {
+      "name": "Linette Soldan",
+      "title": "Executive Director",
+      "url": "https://www.okotoksonline.com/articles/linette-soldan-credits-rural-roots-for-shaping-her-leadership"
+    },
+    "unknowns": [
+      "CIP stream of the earlier two-year grant",
+      "Overdue ministry reporting",
+      "Board appetite"
+    ],
+    "risks": [
+      "Strategic plan is current (2024-27), so need is implementation/next-plan rather than urgent"
+    ],
+    "outreach_angle": "Mid-size rural DV agency, 62% government-dependent: CIP-ODC for revenue diversification and 2027 strategic-plan renewal groundwork.",
+    "self_confidence": "High"
+  },
+  {
+    "org": "Inclusion Foothills Association",
+    "city": "High River / Okotoks",
+    "website": "https://www.inclusionfoothills.org/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Designated by Canada Revenue Agency (CRA) as a registered charity; celebrated 25 years.",
+        "url": "https://www.westernwheel.ca/western-wheel-cares/foothills-non-profit-celebrates-25-years-of-inclusion-7980006"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Address: Box 5146, High River, Alberta T1V 1M3 (Benevity); Okotoks office opened.",
+        "url": "https://highriveronline.com/articles/inclusion-foothills-establishes-an-okotoks-office"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "Family advocacy organization for individuals with disabilities; no faith requirement stated.",
+        "url": "https://inclusionfoothills.org/about-us/"
+      },
+      "A4_revenue_100k": {
+        "status": "MET",
+        "evidence": "Received $483,500 for a three-year Employment Partnerships Project (Oct 2023) - at least ~$161K/yr from this one grant (arithmetic, not a reported total).",
+        "url": "https://www.okotoksonline.com/articles/inclusion-foothills-receives-portion-of-10-million-in-provincial-funding",
+        "value": "Total revenue not found; >=~$161K/yr from one provincial grant (2023-26)"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "No CIP evidence found.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "Vanessa McKenzie took on the executive director role in 2025 following the retirement of founder Orvella Small. Founder-to-successor transition.",
+        "url": "https://www.westernwheel.ca/western-wheel-cares/inclusion-lasts-a-lifetime-for-this-foothills-non-profit-11517942"
+      }
+    },
+    "contact": {
+      "name": "Vanessa McKenzie",
+      "title": "Executive Director",
+      "url": "https://www.westernwheel.ca/western-wheel-cares/inclusion-lasts-a-lifetime-for-this-foothills-non-profit-11517942"
+    },
+    "unknowns": [
+      "Total revenue (T3010)",
+      "Past CIP",
+      "Strategic plan status"
+    ],
+    "risks": [
+      "Revenue figure is inferred from one grant; confirm on CharityData"
+    ],
+    "outreach_angle": "Founder retired 2025; new ED stewarding 1,442 families. CIP-ODC for post-founder transition: governance refresh, strategic plan, systems.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "C. L. Whole You Foundation",
+    "city": "Calgary",
+    "website": "https://clwholeyoufoundation.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "Incorporation/registration not confirmed in any source; implied by CIP approval but not verified.",
+        "url": ""
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Listed as Calgary on the 2024-25 CIP Operating approved applicants list.",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "Services: trauma, grief, divorce, family conflict, anxiety, addictions, abuse; mission language 'peace, healing, hope, growth, and love'. No faith statement found either way.",
+        "url": "https://clwholeyoufoundation.ca/"
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "No revenue data found.",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "Search summary of the CIP Operating 2024-25 approved applicants PDF: 'The Whole You Foundation in Calgary received $60,000 for the 2024-25 CIP Operating grant.'",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "No org-development signal found.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": "https://clwholeyoufoundation.ca/"
+    },
+    "unknowns": [
+      "Revenue",
+      "Legal form/registration",
+      "Faith requirement",
+      "ED name"
+    ],
+    "risks": [
+      "Snippet came from search-engine summary of the PDF; verify line item",
+      "Likely small org; $50K cap needs ~$100K eligible revenue"
+    ],
+    "outreach_angle": "Recent $60K CIP Operating recipient that now faces the replacement program: position CIP-ODC application support as continuity funding for capacity.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "Binam of Calgary - Bamileke Association (Alberta Bami-Association)",
+    "city": "Airdrie / Calgary",
+    "website": "https://binamofcalgary.org/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Founded in 2013 (org website).",
+        "url": "https://binamofcalgary.org/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Location listed in Airdrie in provincial grant records.",
+        "url": "https://discoverairdrie.com/articles/two-airdrie-organizations-receive-provincial-funding"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "Cultural/solidarity association affirming west Cameroonian heritage; no faith requirement stated.",
+        "url": "https://binamofcalgary.org/"
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "No revenue data found.",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "'Binam of Calgary - Bamileke Association received $60,000 for the 2023/2024 fiscal year through the Community Initiatives Program operating-based grant.'",
+        "url": "https://discoverairdrie.com/articles/two-airdrie-organizations-receive-provincial-funding"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "No org-development signal found; volunteer-run cultural association likely has capacity gaps (not evidenced).",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": "https://binamofcalgary.org/"
+    },
+    "unknowns": [
+      "Revenue",
+      "Incorporation Act",
+      "Leadership names"
+    ],
+    "risks": [
+      "Multiple sites/names (binamofcalgary.org, .com, albertabamilekecanada.org) - confirm legal entity",
+      "Revenue may be under $100K"
+    ],
+    "outreach_angle": "Confirmed $60K CIP Operating recipient (2023/24) now cut off from that stream; newcomer-serving cultural org likely needs help framing an org-development ask.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "Alberta Mindfulness Association",
+    "city": "Calgary",
+    "website": "https://albertamindfulness.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "Business number 724740279RC0001 surfaced (RC = corporate account, not an RR charity number). Incorporation Act not confirmed.",
+        "url": "https://albertamindfulness.ca/professional-team"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Listed as Calgary on CIP Operating 2024-25 approved list.",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "Mindfulness training org; no faith requirement found, but not confirmed.",
+        "url": "https://albertamindfulness.ca/professional-team"
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "No revenue data found.",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "CIP Operating Intake 1, 2024-25: 'Alberta Mindfulness Association, Calgary, $37,580.'",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "None found.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": "https://albertamindfulness.ca/professional-team"
+    },
+    "unknowns": [
+      "Revenue",
+      "ED",
+      "Legal form"
+    ],
+    "risks": [
+      "$37,580 award suggests modest revenue base; may not reach $50K cap"
+    ],
+    "outreach_angle": "2024-25 CIP Operating recipient losing that stream; CIP-ODC could fund org-development gap.",
+    "self_confidence": "Low"
+  },
+  {
+    "org": "Wild Rose Community Connections",
+    "city": "High River",
+    "website": "https://www.wildrosecommunityconnections.com/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Registered not-for-profit at 54 10 Avenue SE, High River; active since at least 2019 (news).",
+        "url": "https://ab.211.ca/record/1136141/agency/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "54 10 Avenue SE, High River, AB.",
+        "url": "https://ab.211.ca/record/1136141/agency/"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "FoodConnexx, SeniorConnexx, FamilyConnexx, DadConnexx; no faith requirement stated.",
+        "url": "https://ab.211.ca/record/1136141/agency/"
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Only a third-party estimate ('$200,000 in revenue') from a data-broker profile; not a reported figure.",
+        "url": "https://www.zoominfo.com/c/wild-rose-community-connections/355938830",
+        "value": "~$200K (unverified third-party estimate)"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "Funders page exists; CIP not confirmed in results.",
+        "url": "https://www.wildrosecommunityconnections.com/community-partners"
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "'High River food rescue and hamper program in jeopardy' - drop in donations and fewer grant opportunities (sustainability need).",
+        "url": "https://okotoksonline.com/articles/high-river-food-rescue-and-hamper-program-in-jeopardy"
+      }
+    },
+    "contact": {
+      "name": "Marianne Dickson",
+      "title": "Executive Director",
+      "url": "https://www.linkedin.com/in/marianne-dickson-26231930/"
+    },
+    "unknowns": [
+      "Verified revenue",
+      "Registered charity vs society only",
+      "Past CIP"
+    ],
+    "risks": [
+      "Revenue may be near the $100K threshold"
+    ],
+    "outreach_angle": "Program in jeopardy from donation decline: CIP-ODC for revenue diversification/fund-development plan and resource management.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "Helping Hands Society of Cochrane & Area",
+    "city": "Cochrane",
+    "website": "https://helpinghandscochrane.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Designated by CRA as a registered charity (CanadaHelps).",
+        "url": "https://www.canadahelps.org/en/charities/helping-hands-society-of-cochrane-area/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "PO Box 1045 Stn Main, Cochrane AB T4C1B1 (Benevity).",
+        "url": "https://causes.benevity.org/"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "Volunteer-linking org, 'Neighbors Helping Neighbors'; no faith requirement stated.",
+        "url": "https://helpinghandscochrane.ca/about-helping-hands-cochrane/"
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "No revenue data found.",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "None found.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "'Helping Hands looking to fill new board positions' (board expansion/governance) and new ED hired 2022.",
+        "url": "https://www.cochraneeagle.ca/local-news/helping-hands-looking-to-fill-new-board-positions-9616894"
+      }
+    },
+    "contact": {
+      "name": "Laura McDonald",
+      "title": "Executive Director (per search summary; confirm)",
+      "url": "https://helpinghandscochrane.ca/2022/08/helping-hands-welcomes-new-executive-director/"
+    },
+    "unknowns": [
+      "Revenue",
+      "Past CIP",
+      "Date of board article"
+    ],
+    "risks": [
+      "ED name came from a search summary, not a quoted page line; confirm",
+      "May be under $100K revenue"
+    ],
+    "outreach_angle": "Growing seniors/volunteer org expanding its board: CIP-ODC for governance and volunteer-management systems.",
+    "self_confidence": "Low"
+  },
+  {
+    "org": "Two Wheel View - Calgary Ltd.",
+    "city": "Calgary",
+    "website": "https://www.twowheelview.org/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Registered charity located in Inglewood; moved to Calgary in 2006.",
+        "url": "https://www.avenuecalgary.com/city-life/two-wheel-view-calgary-bikes/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "907 9th Ave SE, Calgary AB T2G 0S5 (Benevity).",
+        "url": "https://causes.benevity.org/"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "Youth development programs using the bicycle; no faith requirement stated.",
+        "url": "https://www.calgary.ca/our-leadership/articles/two-wheel-view.html"
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "No revenue figure surfaced.",
+        "url": "https://www.canadahelps.org/en/charities/two-wheel-view-calgary-ltd/",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "None found.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "None found.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "Laura Istead",
+      "title": "Executive Director",
+      "url": "https://www.linkedin.com/in/lauraistead/?_l=en"
+    },
+    "unknowns": [
+      "Revenue",
+      "Past CIP",
+      "Org-dev need"
+    ],
+    "risks": [
+      "'Ltd.' - confirm incorporation Act (likely Part 9 Companies Act or charity status suffices)"
+    ],
+    "outreach_angle": "Established youth charity with social-enterprise bike shop; CIP-ODC for earned-revenue/resource-management systems.",
+    "self_confidence": "Low"
+  },
+  {
+    "org": "Autism Aspergers Friendship Society of Calgary (AAFS)",
+    "city": "Calgary (programs also in Airdrie/Cochrane)",
+    "website": "https://www.aafscalgary.com/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Founded in 2004; CRA registered charity 862472230RR0001 (Benevity/CanadaHelps listings).",
+        "url": "https://causes.benevity.org/causes/124-862472230RR0001"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Calgary, AB; rural programs in Airdrie and Cochrane.",
+        "url": "https://www.aafscalgary.com/AAFSRural"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "Respite/recreation for people on the autism spectrum; no faith requirement stated.",
+        "url": "https://ckc.calgaryfoundation.org/organizations/autism-aspergers-friendship-society-of-calgary/"
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "No revenue figure surfaced.",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "None found.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "Rural expansion (Airdrie/Cochrane) suggests scaling needs, but no explicit org-dev evidence.",
+        "url": "https://www.aafscalgary.com/AAFSRural"
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": "https://aafscalgary.wildapricot.org/aboutus/"
+    },
+    "unknowns": [
+      "Revenue",
+      "ED",
+      "Past CIP"
+    ],
+    "risks": [
+      "Thin evidence on need"
+    ],
+    "outreach_angle": "Expanding from Calgary into Airdrie/Cochrane: CIP-ODC for multi-site management systems and strategy.",
+    "self_confidence": "Low"
+  },
+  {
+    "org": "Antyx Community Arts Society",
+    "city": "Calgary",
+    "website": "https://antyx.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Established January 1, 2010 through merger of All Nations Theatre and Urban Youth Worx.",
+        "url": "https://antyx.ca/our-story/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Calgary-based (CKC profile).",
+        "url": "https://ckc.calgaryfoundation.org/profile/antyx-community-arts-society/"
+      },
+      "A3_secular": {
+        "status": "MET",
+        "evidence": "Free arts programming for at-risk youth 12-18 (immigrant, Indigenous, low-income, LGBTQ+); no faith requirement.",
+        "url": "https://ckc.calgaryfoundation.org/profile/antyx-community-arts-society/"
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Budget not shown in results.",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "None found.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "None found.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": "https://antyx.ca/"
+    },
+    "unknowns": [
+      "Revenue",
+      "ED",
+      "Need"
+    ],
+    "risks": [
+      "Weak evidence overall"
+    ],
+    "outreach_angle": "Social-issue arts org serving vulnerable youth - classic former-CIP-Operating profile; verify history.",
+    "self_confidence": "Low"
+  },
+  {
+    "org": "Calgary Girls Choir",
+    "city": "Calgary",
+    "website": "https://calgaryartsdevelopment.com/classified-ads/executive-director-calgary-girls-choir-2026/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Non-profit providing choral training since 1995.",
+        "url": "https://calgaryartsdevelopment.com/classified-ads/executive-director-calgary-girls-choir-2026/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Calgary.",
+        "url": "https://calgaryartsdevelopment.com/classified-ads/executive-director-calgary-girls-choir-2026/"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No faith info.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "No revenue data.",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "None found; arts org, less typical of CIP Operating's social-issue focus.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "Recruiting an Executive Director, applications due March 16, 2026 (leadership transition).",
+        "url": "https://calgaryartsdevelopment.com/classified-ads/executive-director-calgary-girls-choir-2026/"
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": "https://calgaryartsdevelopment.com/classified-ads/executive-director-calgary-girls-choir-2026/"
+    },
+    "unknowns": [
+      "Revenue",
+      "New ED name",
+      "CIP-ODC fit for arts orgs"
+    ],
+    "risks": [
+      "CIP-ODC eligibility for arts orgs should be checked against guidelines"
+    ],
+    "outreach_angle": "New ED onboarding in 2026: CIP-ODC for leadership-transition support and strategic plan.",
+    "self_confidence": "Low"
+  }
+]
