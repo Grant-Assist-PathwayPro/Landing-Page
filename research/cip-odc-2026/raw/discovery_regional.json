@@ -1,0 +1,645 @@
+[
+  {
+    "org": "Camrose Women's Shelter Society",
+    "city": "Camrose",
+    "website": "https://camrosewomenshelter.org/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "CanadaHelps lists it as a CRA-designated registered charity; ED has been with the shelter since 2014, so it has operated well over a year.",
+        "url": "https://www.canadahelps.org/en/charities/camrosewomenshelter/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Mailing address: Post Office Box 1405, Camrose, Alberta, T4V 1X3.",
+        "url": "https://camrosewomenshelter.org/contact-us/"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No faith affiliation seen in name or search snippets, but no source states secular participation.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Revenue not surfaced in search snippets; charitydata.ca page could not be opened (network block).",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "2024-25 CIP Operating approved applicant list: Camrose Women's Shelter Society, $75,000 (administrative costs, auditing, insurance, staff wages and salaries, utilities). Evidence is a search-engine summary of the PDF text (alberta.ca is blocked here); open the PDF to confirm the line.",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "No strategic-plan, transition or governance signal found.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "Nora-Lee Rear",
+      "title": "Executive Director",
+      "url": "https://camrosewomenshelter.org/about-us/"
+    },
+    "unknowns": [
+      "Revenue",
+      "Secular participation (shelter sector norm, but not stated)",
+      "Org-development need",
+      "Overdue ministry reporting"
+    ],
+    "risks": [
+      "Most shelter funding comes from core provincial contracts; confirm CIP-ODC fits alongside that",
+      "Operating grant held in 2024-25; confirm the grant period is finished"
+    ],
+    "outreach_angle": "You held a $75K CIP Operating grant in 2024-25. That stream is gone. CIP-ODC (Oct 15) is the replacement for your next capacity dollars, and it doesn't require matching funds.",
+    "self_confidence": "High"
+  },
+  {
+    "org": "Big Brothers Big Sisters Association of Medicine Hat & District",
+    "city": "Medicine Hat",
+    "website": "https://medicinehat.bigbrothersbigsisters.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "CanadaHelps: designated by the Canada Revenue Agency as a registered charity.",
+        "url": "https://www.canadahelps.org/en/charities/big-brothersbig-sisters-association-of-medicine-hat-and-district/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Listed Medicine Hat address and phone 403-527-6640.",
+        "url": "https://medicinehat.bigbrothersbigsisters.ca/contact-us/"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No faith affiliation seen in name or search snippets, but no source states secular participation.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "The only figure found is Bowl for Kids' Sake 2026 raising more than $70K ('largest source of funding'). Total revenue not found.",
+        "url": "https://medicinehatnews.com/news/local-news/2026/03/24/more-than-70k-raised-at-bowl-for-kids-sake/",
+        "value": "UNKNOWN (event alone >$70K, 2026)"
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "2024-25 CIP Operating Intake 1: Big Brothers/Big Sisters Association of Medicine Hat and District, Medicine Hat, $75,000 (rent, staff wages and salaries). Evidence is a search-engine summary of the PDF text (alberta.ca is blocked here); open the PDF to confirm the line.",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf"
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "Medicine Hat News: the group 'does not receive government funding on an ongoing basis' and relies on community support. This is a revenue-diversification and sustainability need.",
+        "url": "https://medicinehatnews.com/news/local-news/2026/03/24/more-than-70k-raised-at-bowl-for-kids-sake/"
+      }
+    },
+    "contact": {
+      "name": "Ashley Turner",
+      "title": "Executive Director",
+      "url": "https://medicinehat.bigbrothersbigsisters.ca/contact-us/"
+    },
+    "unknowns": [
+      "Total revenue",
+      "Overdue ministry reporting"
+    ],
+    "risks": [
+      "Revenue may be near the $100K floor, which would cap the grant below $50K"
+    ],
+    "outreach_angle": "The $75K CIP Operating grant you used for rent and wages is gone. Your funding leans on one event. CIP-ODC can pay for a fund-development and sustainability plan.",
+    "self_confidence": "High"
+  },
+  {
+    "org": "Big Brothers Big Sisters Association of Wood Buffalo",
+    "city": "Fort McMurray",
+    "website": "https://woodbuffalo.bigbrothersbigsisters.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "CanadaHelps profile exists, but the snippet did not state registration or the date.",
+        "url": "https://www.canadahelps.org/en/charities/big-brothers-big-sisters-association-of-wood-buffalo/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "211 Alberta agency profile, Fort McMurray. CIP list shows the location as Fort McMurray.",
+        "url": "https://ab.211.ca/record/1139009/agency/"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No faith affiliation seen in name or search snippets, but no source states secular participation.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Publishes audited statements at AGM (annual report page). A RocketReach figure of $16.4M is not credible and was NOT used.",
+        "url": "https://woodbuffalo.bigbrothersbigsisters.ca/about-us/annual-report/",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "2024-25 CIP Operating Intake 1: Big Brothers Big Sisters Association of Wood Buffalo, Fort McMurray, $73,250 (insurance, rent, staff training, staff wages and salaries). Evidence is a search-engine summary of the PDF text (alberta.ca is blocked here); open the PDF to confirm the line.",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf"
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "play 103.7 (Oct 2024): BBBS Wood Buffalo appoints new Executive Director Hanna Fridhed-Campbell, succeeding Julie Penney. This is a recent leadership transition.",
+        "url": "https://www.play1037.ca/2024/10/17/youth-mentorship-in-focus-as-big-brothers-big-sisters-wood-buffalo-appoints-new-executive-director/"
+      }
+    },
+    "contact": {
+      "name": "Hanna Fridhed-Campbell",
+      "title": "Executive Director",
+      "url": "https://www.play1037.ca/2024/10/17/youth-mentorship-in-focus-as-big-brothers-big-sisters-wood-buffalo-appoints-new-executive-director/"
+    },
+    "unknowns": [
+      "Revenue",
+      "CRA registration date",
+      "Overdue ministry reporting"
+    ],
+    "risks": [
+      "The ED transition was nearly 2 years ago, so the signal is weakening"
+    ],
+    "outreach_angle": "You used the $73K CIP Operating grant for staff training and wages. The ED is about two years in. CIP-ODC can fund the strategic plan and leadership-capacity work that comes after a transition.",
+    "self_confidence": "High"
+  },
+  {
+    "org": "Edson Friendship Centre",
+    "city": "Edson",
+    "website": "https://www.edsonfriendshipcentre.org/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Registered charity, Business No. 101580918RR0001. Established in 1986.",
+        "url": "https://www.charitydata.ca/charity/edson-friendship-centre/101580918RR0001/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Serves Edson and area. 211 Alberta agency profile.",
+        "url": "https://ab.211.ca/record/1112158/agency/"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "Purpose: programs for 'Aboriginal and non-Aboriginal people of Edson and area who are in need'. Open-access language, but no statement about faith.",
+        "url": "https://www.canadahelps.org/en/charities/edson-friendship-centre/"
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Revenue not surfaced in search snippets; charitydata.ca page could not be opened (network block).",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "2024-25 CIP Operating: Edson Friendship Centre, $74,000 (admin, auditing, data collection, evaluation, staff training, wages, etc.). Evidence is a search-engine summary of the PDF text (alberta.ca is blocked here); open the PDF to confirm the line.",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "Its CIP Operating use included data collection and evaluation, which points to capacity-building intent. No plan or transition signal found.",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf"
+      }
+    },
+    "contact": {
+      "name": "Kristie Gomuwka",
+      "title": "Executive Director",
+      "url": "https://www.edsonfriendshipcentre.org/about"
+    },
+    "unknowns": [
+      "Revenue",
+      "Org-development need",
+      "Overdue ministry reporting"
+    ],
+    "risks": [
+      "Edson is not in the named target-city list, though it is outside both metros",
+      "Indigenous-serving friendship centres may also have federal core funding"
+    ],
+    "outreach_angle": "Your $74K CIP Operating grant covered evaluation, data and staff training. CIP-ODC is the direct successor and is focused on that same capacity work.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "Learning Disabilities Association of Alberta - Red Deer Chapter",
+    "city": "Red Deer",
+    "website": "UNKNOWN",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "Chapter of a provincial association. Its own registration was not verified.",
+        "url": ""
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "CIP list location: Red Deer-South.",
+        "url": "https://open.alberta.ca/dataset/77872865-51a2-43d9-bc26-4dcd7dfc552e/resource/59133b31-852d-4418-a597-06a676e58e3d/download/cip-q3-q4.pdf"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No faith affiliation seen in name or search snippets, but no source states secular participation.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Revenue not surfaced in search snippets; charitydata.ca page could not be opened (network block).",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "MET",
+        "evidence": "CIP Operating stream 2016-17 Q3/Q4: Learning Disabilities Association of Alberta - Red Deer Chapter, Administrative Coordinator, Red Deer-South, $40,000. Evidence is a search-engine summary of the PDF text (alberta.ca is blocked here); open the PDF to confirm the line.",
+        "url": "https://open.alberta.ca/dataset/77872865-51a2-43d9-bc26-4dcd7dfc552e/resource/59133b31-852d-4418-a597-06a676e58e3d/download/cip-q3-q4.pdf"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in this sprint.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": ""
+    },
+    "unknowns": [
+      "Current status and revenue",
+      "Whether the chapter is its own incorporated entity",
+      "Contact"
+    ],
+    "risks": [
+      "The CIP evidence is from 2016-17 and old",
+      "A chapter may have to apply through the provincial body"
+    ],
+    "outreach_angle": "You've held CIP Operating funding for admin capacity before. CIP-ODC replaces it and funds the same kind of organizational backbone.",
+    "self_confidence": "Low"
+  },
+  {
+    "org": "Lethbridge Food Bank",
+    "city": "Lethbridge",
+    "website": "https://lethbridgefoodbank.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Lethbridge News Now: the Food Bank is 'now in its 44th year of operation' (operating >1 yr). CRA registration not directly confirmed.",
+        "url": "https://lethbridgenewsnow.com/2026/05/20/new-executive-director-begins-at-lethbridge-food-bank/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Lethbridge-based. Serves close to 27,000 people a year.",
+        "url": "https://lethbridgenewsnow.com/2026/05/20/new-executive-director-begins-at-lethbridge-food-bank/"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "Separate entity from the Interfaith Food Bank Society of Lethbridge. No faith language seen, but not confirmed.",
+        "url": "https://lethbridgefoodbank.ca/about/"
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Staff of eight and about 12,000 hampers a year (Lethbridge Herald, 2026-09-18). Revenue figure not found.",
+        "url": "https://lethbridgeherald.com/news/lethbridge-news/2026/09/18/a-million-pounds-of-food-and-the-need-keeps-growing/",
+        "value": "UNKNOWN (8 staff suggests >$100K)"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in this sprint.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "New executive director Tim Rempel appointed by the board (May 2026). Monthly hamper distribution up 90% over five years, with a staff of just eight.",
+        "url": "https://lethbridgenewsnow.com/2026/05/20/new-executive-director-begins-at-lethbridge-food-bank/"
+      }
+    },
+    "contact": {
+      "name": "Tim Rempel",
+      "title": "Executive Director",
+      "url": "https://lethbridgenewsnow.com/2026/05/20/new-executive-director-begins-at-lethbridge-food-bank/"
+    },
+    "unknowns": [
+      "CRA registration",
+      "Revenue",
+      "Secular status",
+      "Past CIP"
+    ],
+    "risks": [
+      "Could be confused with the Interfaith Food Bank; confirm the entity"
+    ],
+    "outreach_angle": "New ED, demand up 90% and eight staff. CIP-ODC can fund a 90-day strategic reset, and the Oct 15 intake fits a new leader's first-year agenda.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "Volunteer Lethbridge",
+    "city": "Lethbridge",
+    "website": "https://volunteerlethbridge.com/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "Established organization (ran pre-COVID programs) but registration not confirmed in snippets.",
+        "url": "https://volunteerlethbridge.com/about/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Lethbridge Chamber member listing, Lethbridge.",
+        "url": "https://www.lethbridgechamber.com/list/member/volunteer-lethbridge-5834"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No faith affiliation seen in name or search snippets, but no source states secular participation.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Revenue not surfaced in search snippets; charitydata.ca page could not be opened (network block).",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in this sprint.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "New executive director Sandi Davis started May 2025. The org rebuilt its model after COVID (Community Volunteer Management Model) to 'return capacity' to the sector.",
+        "url": "https://www.mylethbridgenow.com/53924/news/community/non-profit/volunteer-lethbridge-introduces-new-executive-director/"
+      }
+    },
+    "contact": {
+      "name": "Sandi Davis",
+      "title": "Executive Director",
+      "url": "https://ca.linkedin.com/in/sandi-davis-24ba4965"
+    },
+    "unknowns": [
+      "Registration",
+      "Revenue",
+      "Past CIP"
+    ],
+    "risks": [
+      "Small revenue could limit the award below $50K"
+    ],
+    "outreach_angle": "You're the capacity-builder for Lethbridge nonprofits. CIP-ODC can fund your own plan in your ED's second year. You're also a natural fiscal agent for a CIP-ODC Collaboratives ($100K) bid.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "SPEC Association for Children and Families",
+    "city": "Brooks",
+    "website": "UNKNOWN",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "Past CIP recipient implies eligible incorporation at the time. Current status not verified.",
+        "url": ""
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "CIP Project-Based approved list: location Brooks. Evidence is a search-engine summary of the PDF text (alberta.ca is blocked here); open the PDF to confirm the line.",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-project-based-approved-applicants-2024-25-t2.pdf"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No faith affiliation seen in name or search snippets, but no source states secular participation.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Revenue not surfaced in search snippets; charitydata.ca page could not be opened (network block).",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "NOT_MET",
+        "evidence": "The evidence shows a CIP Project-Based grant (SPEC Payroll Software), not Operating. There is still a CIP relationship. Exact intake year not confirmed. Evidence is a search-engine summary of the PDF text (alberta.ca is blocked here); open the PDF to confirm the line.",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-project-based-approved-applicants-2024-25-t2.pdf"
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "A CIP grant for payroll software shows active investment in internal systems (resource-management focus area).",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-project-based-approved-applicants-2024-25-t2.pdf"
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": ""
+    },
+    "unknowns": [
+      "Revenue",
+      "Contact",
+      "Website",
+      "Grant year"
+    ],
+    "risks": [
+      "Evidence is thin and relies on search summaries"
+    ],
+    "outreach_angle": "You've already used CIP to modernize payroll. CIP-ODC funds the next layer: HR, finance and governance systems.",
+    "self_confidence": "Low"
+  },
+  {
+    "org": "Central Alberta Sexual Assault Support Centre",
+    "city": "Red Deer",
+    "website": "UNKNOWN",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "A CIP recipient since at least 2016-17, so it has operated for more than a year. Registration not directly confirmed.",
+        "url": "https://open.alberta.ca/dataset/77872865-51a2-43d9-bc26-4dcd7dfc552e/resource/59133b31-852d-4418-a597-06a676e58e3d/download/cip-q3-q4.pdf"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Red Deer. To be housed in the Centre of Excellence for Children and Youth building.",
+        "url": "https://majorprojects.alberta.ca/details/Centre-of-Excellence-for-Children-and-Youth-Central-Alberta/10621"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No faith affiliation seen in name or search snippets, but no source states secular participation.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Revenue not surfaced in search snippets; charitydata.ca page could not be opened (network block).",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "NOT_MET",
+        "evidence": "CIP Project-Based 2016-17 Q3/Q4: Family Intervention Program, $49,968. That is the project stream, not Operating. Evidence is a search-engine summary of the PDF text (alberta.ca is blocked here); open the PDF to confirm the line.",
+        "url": "https://open.alberta.ca/dataset/77872865-51a2-43d9-bc26-4dcd7dfc552e/resource/59133b31-852d-4418-a597-06a676e58e3d/download/cip-q3-q4.pdf"
+      },
+      "S2_org_dev_need": {
+        "status": "MET",
+        "evidence": "Moving into a 66,000 sq ft shared Centre of Excellence for Children and Youth with the Central Alberta Child Advocacy Centre. That brings a facility, partnership and operating-model transition.",
+        "url": "https://majorprojects.alberta.ca/details/Centre-of-Excellence-for-Children-and-Youth-Central-Alberta/10621"
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": ""
+    },
+    "unknowns": [
+      "Revenue",
+      "ED name",
+      "Timing of the move"
+    ],
+    "risks": [
+      "May have large provincial victim-services contracts; check the revenue band"
+    ],
+    "outreach_angle": "Moving into a shared hub changes governance, staffing and systems. CIP-ODC Individual (or Collaboratives with CACAC) can fund that transition planning.",
+    "self_confidence": "Medium"
+  },
+  {
+    "org": "John Howard Society of Red Deer",
+    "city": "Red Deer",
+    "website": "https://www.jhsrd.ca/",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "MET",
+        "evidence": "Registered charity, BN 119239606RR0001 (CharityData listing).",
+        "url": "https://www.charitydata.ca/charity/john-howard-society-of-red-deer/119239606RR0001/"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Red Deer. Phone (403) 343-1770.",
+        "url": "https://informalberta.ca/orgdetails?orgid=1010555"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No faith affiliation seen in name or search snippets, but no source states secular participation.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Revenue not surfaced in search snippets; charitydata.ca page could not be opened (network block).",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in this sprint.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in this sprint.",
+        "url": ""
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": "https://www.jhsrd.ca/"
+    },
+    "unknowns": [
+      "Revenue",
+      "ED",
+      "Past CIP",
+      "Org-development need"
+    ],
+    "risks": [
+      "Qualifies on gates only; no priority signal found"
+    ],
+    "outreach_angle": "Justice-sector nonprofits rarely get capacity dollars. CIP-ODC is one of the few provincial sources for strategic and governance work.",
+    "self_confidence": "Low"
+  },
+  {
+    "org": "Wood Buffalo Wellness Society",
+    "city": "Fort McMurray",
+    "website": "UNKNOWN",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in this sprint.",
+        "url": ""
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Fort McMurray group named among recipients of Alberta's Community Pathways to Justice Grant (Oct 2025).",
+        "url": "https://www.play1037.ca/2025/10/22/fort-mcmurray-group-among-recipients-of-alberta-funding-to-address-gender-based-violence/"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No faith affiliation seen in name or search snippets, but no source states secular participation.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Revenue not surfaced in search snippets; charitydata.ca page could not be opened (network block).",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "No source found in this sprint.",
+        "url": ""
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "New provincial gender-based-violence grant (Oct 2025) means program growth. An org-development need is plausible but not evidenced.",
+        "url": "https://www.play1037.ca/2025/10/22/fort-mcmurray-group-among-recipients-of-alberta-funding-to-address-gender-based-violence/"
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": ""
+    },
+    "unknowns": [
+      "Registration",
+      "Revenue",
+      "Contact",
+      "Past CIP"
+    ],
+    "risks": [
+      "Thin evidence"
+    ],
+    "outreach_angle": "You've just taken on new provincial program money. CIP-ODC can build the admin and governance backbone to carry it.",
+    "self_confidence": "Low"
+  },
+  {
+    "org": "Medicine Hat Women's Shelter Society",
+    "city": "Medicine Hat",
+    "website": "UNKNOWN",
+    "criteria": {
+      "A1_registered_1yr": {
+        "status": "UNKNOWN",
+        "evidence": "Runs a campaign on the province's Crowdfunding Alberta platform. Registration not confirmed in snippet.",
+        "url": "https://give.crowdfunding.alberta.ca/campaigns/e2JsN8"
+      },
+      "A2_alberta_address": {
+        "status": "MET",
+        "evidence": "Medicine Hat-based shelter society.",
+        "url": "https://give.crowdfunding.alberta.ca/campaigns/e2JsN8"
+      },
+      "A3_secular": {
+        "status": "UNKNOWN",
+        "evidence": "No faith affiliation seen in name or search snippets, but no source states secular participation.",
+        "url": ""
+      },
+      "A4_revenue_100k": {
+        "status": "UNKNOWN",
+        "evidence": "Revenue not surfaced in search snippets; charitydata.ca page could not be opened (network block).",
+        "url": "",
+        "value": "UNKNOWN"
+      },
+      "S1_past_cip_operating": {
+        "status": "UNKNOWN",
+        "evidence": "Search of the 2024-25 CIP Operating list did not surface this org.",
+        "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf"
+      },
+      "S2_org_dev_need": {
+        "status": "UNKNOWN",
+        "evidence": "Crowdfunding campaign 'It's About Basic Human Needs' suggests funding pressure. Not a documented org-development need.",
+        "url": "https://give.crowdfunding.alberta.ca/campaigns/e2JsN8"
+      }
+    },
+    "contact": {
+      "name": "UNKNOWN",
+      "title": "",
+      "url": ""
+    },
+    "unknowns": [
+      "Revenue",
+      "ED",
+      "Past CIP"
+    ],
+    "risks": [
+      "Likely larger budget from provincial shelter contracts"
+    ],
+    "outreach_angle": "Same sector as Camrose Women's Shelter (a 2024-25 CIP Operating recipient). CIP-ODC can fund resilience and sustainability planning for shelters under funding pressure.",
+    "self_confidence": "Low"
+  }
+]

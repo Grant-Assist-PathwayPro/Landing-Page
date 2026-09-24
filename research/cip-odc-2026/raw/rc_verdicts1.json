@@ -1,0 +1,694 @@
+[
+ {
+  "id": 1,
+  "org": "North Rocky View Community Links Society (Community Links)",
+  "verdict": "PASS",
+  "score": 74,
+  "confidence": "Medium",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Match: NORTH ROCKY VIEW COMMUNITY LINKS SOCIETY, 211-125 Main Street NW, Airdrie AB T4B 0P7. Reg # not returned; candidate's 106690241RR0001 rests on the Benevity cause URL, which is consistent but not re-confirmed.",
+  "why_qualifies": "Benevity lists it as an Alberta cause at an Airdrie address, and its CKC profile reports a $5.74M annual budget. A local news article reports a $75K provincial award in 2022/23 in a CIP context, and a new ED started in January 2025.",
+  "evidence": [
+   {
+    "claim": "Alberta address, listed on Benevity",
+    "url": "Benevity MCP",
+    "snippet": "NORTH ROCKY VIEW COMMUNITY LINKS SOCIETY, 211 - 125 Main Street NW, AIRDRIE, Alberta T4B 0P7"
+   },
+   {
+    "claim": "Revenue well above $100K",
+    "url": "https://ckc.calgaryfoundation.org/profile/north-rocky-view-community-links-community-links/",
+    "snippet": "Community Links Airdrie's annual budget is $5,736,173.72"
+   },
+   {
+    "claim": "Past CIP award, 2022/23",
+    "url": "https://discoverairdrie.com/articles/two-airdrie-organizations-receive-provincial-funding",
+    "snippet": "the North Rocky View Community Links Society was awarded $75,000 in 2022/2023"
+   },
+   {
+    "claim": "Leadership transition",
+    "url": "https://www.airdriecityview.com/community/sara-jordan-takes-over-as-executive-director-of-community-links-11764129",
+    "snippet": "Sara Jordan took over as executive director in January 2025"
+   }
+  ],
+  "unknowns": [
+   "Whether the 2022/23 $75K was the Operating stream: the article's wording ties it to CIP but does not name the stream. The $75K matches the Operating maximum, but that is inference.",
+   "Year of the CKC budget figure",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "$5.74M budget is above the ICP S3 band ($150K-$3M), so $50K is under 1% of budget and urgency is lower",
+   "May have reapplied or received multi-year funding since 2022/23",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "Sara Jordan, Executive Director (https://www.airdriecityview.com/community/sara-jordan-takes-over-as-executive-director-of-community-links-11764129). Source is from Jan 2025 and still current as far as known.",
+  "outreach_angle": "Sara, you are about 20 months into the ED role and in the middle of the 2025-2027 strategic plan. The CIP Operating stream that funded Community Links at $75K in 2022/23 is gone, and the new CIP-ODC grant (up to $50K, due Oct 15, 2026) funds exactly the leadership-capacity and systems work that makes a plan stick.",
+  "challenges_raised": "Stream: 'in the context of operating-based grants' is the discoverer's framing, so S1 was downgraded to probable. Registration: the BN was not returned by the Benevity tool, but the name and address match. Size: budget is above the ICP band, so -5 was applied."
+ },
+ {
+  "id": 2,
+  "org": "Rowan House Society",
+  "verdict": "PASS",
+  "score": 62,
+  "confidence": "Medium",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Match under display name 'Rowan House Emergency Shelter' (description: 'Rowan House Society provides crisis intervention...'), Box 5121, High River AB T1V 1M3. Reg # not returned; 899496707RR0001 is from CharityData per candidate file, not re-confirmed.",
+  "why_qualifies": "Benevity confirms a High River, Alberta address. Charity Intelligence reports $1.7M in government funding and $905K in donations for F2024, and the society has a 2024-2027 strategic plan led by an ED who is in her first plan cycle.",
+  "evidence": [
+   {
+    "claim": "Alberta address",
+    "url": "Benevity MCP",
+    "snippet": "Rowan House Emergency Shelter, Box 5121, High River, Alberta T1V 1M3"
+   },
+   {
+    "claim": "Revenue at least $1.7M (reported components)",
+    "url": "https://www.charityintelligence.ca/charity-details/1115-rowan-house-society",
+    "snippet": "In F2024 Rowan House received $905k in donations and special events; $1.7m government funding = 62% of total revenues"
+   },
+   {
+    "claim": "Strategic-plan cycle",
+    "url": "https://www.okotoksonline.com/articles/rowan-house-society-shares-details-of-new-strategic-plan",
+    "snippet": "New three-year Strategic Plan 2024-2027"
+   },
+   {
+    "claim": "Past CIP grant, stream not stated",
+    "url": "https://www.westernwheel.ca/local-news/rowan-house-society-sets-up-okotoks-office-3638150",
+    "snippet": "made possible by the society receiving a two-year grant from the Alberta Community Initiatives program"
+   }
+  ],
+  "unknowns": [
+   "CIP stream and year of the 'two-year grant'. A two-year term hints at Operating (Project grants are one-time), but that is unconfirmed, and the article date was not captured, so it may be pre-2022.",
+   "Exact total revenue: the ~$2.7M figure is back-calculated",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "Strategic plan is current, so the need is implementation rather than urgent",
+   "DV shelter funding is mostly government, so ODC may compete with larger priorities",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "Linette Soldan, Executive Director (https://www.okotoksonline.com/articles/linette-soldan-credits-rural-roots-for-shaping-her-leadership)",
+  "outreach_angle": "Your 2024-2027 plan runs out inside the 24-month CIP-ODC window, and 62% government dependence is exactly the resilience and revenue-diversification case the new grant (up to $50K, due Oct 15, 2026) was built to fund.",
+  "challenges_raised": "The ~$2.7M total is arithmetic ($1.7M / 0.62), so it is not treated as reported. A4 still holds on the reported $1.7M component. The CIP stream stays UNKNOWN and the article date is unverified, so S1 scored low. Benevity display name differs ('Emergency Shelter'), but the description and address match."
+ },
+ {
+  "id": 3,
+  "org": "Inclusion Foothills Association",
+  "verdict": "CONDITIONAL",
+  "score": 50,
+  "confidence": "Medium",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Match: INCLUSION FOOTHILLS ASSOCIATION, Box 5146, High River AB T1V 1M3. Reg # not returned.",
+  "why_qualifies": "Benevity confirms a High River address, and news coverage describes it as a CRA-registered charity marking 25 years. The founder retired and a new ED took over in 2025.",
+  "evidence": [
+   {
+    "claim": "Alberta address",
+    "url": "Benevity MCP",
+    "snippet": "INCLUSION FOOTHILLS ASSOCIATION, BOX 5146, HIGH RIVER, Alberta T1V 1M3"
+   },
+   {
+    "claim": "Registered charity, 25 years",
+    "url": "https://www.westernwheel.ca/western-wheel-cares/foothills-non-profit-celebrates-25-years-of-inclusion-7980006",
+    "snippet": "Designated by Canada Revenue Agency (CRA) as a registered charity; celebrated 25 years."
+   },
+   {
+    "claim": "Founder-to-successor transition",
+    "url": "https://www.westernwheel.ca/western-wheel-cares/inclusion-lasts-a-lifetime-for-this-foothills-non-profit-11517942",
+    "snippet": "Vanessa McKenzie took on the executive director role in 2025 following the retirement of founder Orvella Small."
+   }
+  ],
+  "unknowns": [
+   "Total revenue. Downgraded to UNKNOWN: the ~$161K/yr figure is arithmetic from one 3-year $483.5K grant, not reported revenue. It makes revenue of $100K+ plausible but not evidenced.",
+   "Any past CIP funding",
+   "Strategic plan status",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "None found",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "Vanessa McKenzie, Executive Director (https://www.westernwheel.ca/western-wheel-cares/inclusion-lasts-a-lifetime-for-this-foothills-non-profit-11517942)",
+  "outreach_angle": "The first year after a founder retires is when governance, succession and systems gaps show. CIP-ODC (up to $50K, due Oct 15, 2026) can fund that post-founder transition work.",
+  "challenges_raised": "A4 was downgraded from MET to UNKNOWN (arithmetic from one grant). S1 has no evidence. Registration is corroborated by news and Benevity."
+ },
+ {
+  "id": 4,
+  "org": "C. L. Whole You Foundation",
+  "verdict": "CONDITIONAL",
+  "score": 30,
+  "confidence": "Low",
+  "benevity_check": "No match. Searches for 'Whole You Foundation' and 'CL Whole You Calgary' returned only WHOLE YOU FOUNDATION in Tyler, Texas (unrelated).",
+  "why_qualifies": "Only signal: a search-engine summary of the 2024-25 CIP Operating approved list says a 'Whole You Foundation' in Calgary received $60,000. If that line item is verified, it is a strong recent Operating signal.",
+  "evidence": [
+   {
+    "claim": "2024-25 CIP Operating award (search summary, not a verified line item)",
+    "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf",
+    "snippet": "The Whole You Foundation in Calgary received $60,000 for the 2024-25 CIP Operating grant."
+   }
+  ],
+  "unknowns": [
+   "Whether the PDF line item names this exact entity ('The Whole You Foundation' versus 'C. L. Whole You Foundation')",
+   "Legal form and incorporation Act",
+   "Revenue",
+   "Faith requirement: the mission language ('peace, healing, hope, growth, and love') is neutral but unconfirmed",
+   "ED name",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "Possible entity mismatch",
+   "Possible counselling practice structured as a company; legal form unknown",
+   "Not on Benevity, so registered-charity status is unconfirmed",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "UNKNOWN; general contact: https://clwholeyoufoundation.ca/",
+  "outreach_angle": "If the 2024-25 $60K CIP Operating award is confirmed, lead with continuity: that stream is closed, and CIP-ODC (due Oct 15, 2026) is the replacement for capacity funding.",
+  "challenges_raised": "The S1 snippet is a search-engine summary with a slightly different org name, so it cannot be confirmed as this entity without opening the PDF. Benevity has no match. Every other must-have is unknown. It stays CONDITIONAL only because the CIP signal, if real, would imply eligibility in 2024; verify the PDF before any outreach."
+ },
+ {
+  "id": 5,
+  "org": "Binam of Calgary - Bamileke Association",
+  "verdict": "CONDITIONAL",
+  "score": 38,
+  "confidence": "Medium",
+  "benevity_check": "No match. 'Binam of Calgary' returned nothing relevant; 'Bamileke Association' returned only US groups (Columbus OH, Illinois, Northern California).",
+  "why_qualifies": "A local news article states it received $60,000 through the CIP operating-based grant for 2023/24, with an Airdrie location in provincial records.",
+  "evidence": [
+   {
+    "claim": "CIP Operating 2023/24",
+    "url": "https://discoverairdrie.com/articles/two-airdrie-organizations-receive-provincial-funding",
+    "snippet": "Binam of Calgary - Bamileke Association received $60,000 for the 2023/2024 fiscal year through the Community Initiatives Program operating-based grant."
+   }
+  ],
+  "unknowns": [
+   "Incorporation Act and good standing. A1 was downgraded to UNKNOWN because 'founded in 2013' on the org website does not show incorporation.",
+   "Revenue",
+   "Leadership names",
+   "Which of several web domains is the legal entity",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "Not a registered charity per Benevity (that alone is not disqualifying, since societies are eligible)",
+   "Possible multiple or overlapping entities",
+   "Revenue may be under $100K, which would cap the award below $50K",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "UNKNOWN; general contact: https://binamofcalgary.org/",
+  "outreach_angle": "Your $60K CIP Operating grant for 2023/24 came from a stream that no longer exists. CIP-ODC (due Oct 15, 2026) is the replacement, and we can help frame an organizational-development ask around volunteer-to-staff capacity.",
+  "challenges_raised": "A1 was downgraded from MET to UNKNOWN (founding date is not incorporation). S1 is the strongest in the batch for recency and explicitly names the operating stream, though via a secondary news source. The Alberta address comes from the article only; Benevity has no match."
+ },
+ {
+  "id": 6,
+  "org": "Alberta Mindfulness Association",
+  "verdict": "CONDITIONAL",
+  "score": 33,
+  "confidence": "Low",
+  "benevity_check": "No match. The search returned unrelated Alberta groups (Parkinson Association of Alberta, Kids Cancer Care, etc.) and no mindfulness association.",
+  "why_qualifies": "The 2024-25 CIP Operating Intake 1 approved list reportedly shows Alberta Mindfulness Association, Calgary, $37,580.",
+  "evidence": [
+   {
+    "claim": "CIP Operating 2024-25",
+    "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf",
+    "snippet": "Alberta Mindfulness Association, Calgary, $37,580."
+   },
+   {
+    "claim": "Business number is RC, not RR",
+    "url": "https://albertamindfulness.ca/professional-team",
+    "snippet": "724740279RC0001"
+   }
+  ],
+  "unknowns": [
+   "Legal form: an RC number plus no Benevity listing suggests it is not a registered charity, and the incorporation Act is unknown",
+   "Revenue: a $37,580 award suggests a smaller base (inference)",
+   "Faith or spiritual requirement: mindfulness can be secular or Buddhist-rooted; unconfirmed",
+   "ED",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "Could be a professional or training association with member-benefit focus",
+   "Possible for-profit corporation behind the RC number",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "UNKNOWN; general contact: https://albertamindfulness.ca/professional-team",
+  "outreach_angle": "You were approved for $37,580 in 2024-25 CIP Operating. That stream is closed, and CIP-ODC (due Oct 15, 2026) funds strategic-leadership and resilience work instead.",
+  "challenges_raised": "A1 is UNKNOWN (RC, not a charity, no Benevity listing). Its 2024-25 CIP approval does suggest the entity met eligibility then, which is why it stays CONDITIONAL. Faith stance and revenue are unverified."
+ },
+ {
+  "id": 7,
+  "org": "Wild Rose Community Connections",
+  "verdict": "CONDITIONAL",
+  "score": 42,
+  "confidence": "Medium",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Match: Wild Rose Community Connections, Box 5714, High River AB T1V 1P3 (no website on Benevity record). The description mentions programs in Foothills County and Claresholm.",
+  "why_qualifies": "Benevity and 211 confirm a High River nonprofit with active programs. Local news reports its food rescue program is in jeopardy from falling donations and grants, which is a sustainability need.",
+  "evidence": [
+   {
+    "claim": "Alberta address and active programs",
+    "url": "https://ab.211.ca/record/1136141/agency/",
+    "snippet": "54 10 Avenue SE, High River, AB; FoodConnexx, SeniorConnexx, FamilyConnexx, DadConnexx"
+   },
+   {
+    "claim": "Listed on Benevity",
+    "url": "Benevity MCP",
+    "snippet": "Wild Rose Community Connections, BOX 5714, HIGH RIVER, Alberta T1V1P3"
+   },
+   {
+    "claim": "Sustainability need",
+    "url": "https://okotoksonline.com/articles/high-river-food-rescue-and-hamper-program-in-jeopardy",
+    "snippet": "High River food rescue and hamper program in jeopardy"
+   }
+  ],
+  "unknowns": [
+   "Revenue: ~$200K is a ZoomInfo estimate only, so UNKNOWN",
+   "Past CIP",
+   "Date of the 'in jeopardy' article",
+   "Registered charity versus society only",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "Revenue may be near $100K",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "Marianne Dickson, Executive Director (https://www.linkedin.com/in/marianne-dickson-26231930/). This is a self-reported LinkedIn profile and whether it is current is unverified.",
+  "outreach_angle": "Donations are falling and grant options are narrowing. CIP-ODC (up to $50K, due Oct 15, 2026) funds the fund-development and resource-management plan that keeps FoodConnexx off the 'in jeopardy' list.",
+  "challenges_raised": "The revenue estimate is from a data broker, so it stays UNKNOWN. Benevity strengthens A1 and A2. The contact is sourced only to LinkedIn, so it is partially verified."
+ },
+ {
+  "id": 8,
+  "org": "Helping Hands Society of Cochrane & Area",
+  "verdict": "CONDITIONAL",
+  "score": 33,
+  "confidence": "Low",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Match: Helping Hands Society of Cochrane & Area, PO Box 1045 Stn Main, Cochrane AB T4C 1B1.",
+  "why_qualifies": "Benevity and CanadaHelps confirm a Cochrane charity. The Cochrane Eagle reports it recruiting new board positions.",
+  "evidence": [
+   {
+    "claim": "Alberta charity",
+    "url": "https://www.canadahelps.org/en/charities/helping-hands-society-of-cochrane-area/",
+    "snippet": "Designated by CRA as a registered charity"
+   },
+   {
+    "claim": "Board expansion",
+    "url": "https://www.cochraneeagle.ca/local-news/helping-hands-looking-to-fill-new-board-positions-9616894",
+    "snippet": "Helping Hands looking to fill new board positions"
+   }
+  ],
+  "unknowns": [
+   "Revenue",
+   "Past CIP",
+   "Date of board article",
+   "Current ED",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "Volunteer-driven org; revenue may be under $100K",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "UNVERIFIED: 'Laura McDonald, ED' came from a search summary of a 2022 hiring post, not a quoted page line. General: https://helpinghandscochrane.ca/",
+  "outreach_angle": "As the board grows, CIP-ODC (due Oct 15, 2026) can fund governance and volunteer-management systems that match the society's growth.",
+  "challenges_raised": "The contact was downgraded to UNVERIFIED (search summary, 2022). The org-dev signal is weak and undated. No revenue evidence."
+ },
+ {
+  "id": 9,
+  "org": "Two Wheel View - Calgary Ltd.",
+  "verdict": "CONDITIONAL",
+  "score": 30,
+  "confidence": "Low",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Match: TWO WHEEL VIEW - CALGARY LTD., 907 9th Ave SE, Calgary AB T2G 0S5. Mission: youth development programs using the bicycle.",
+  "why_qualifies": "Benevity confirms a Calgary cause, and Avenue Calgary calls it a registered charity operating in Calgary since 2006. No CIP, revenue or org-development signal was found.",
+  "evidence": [
+   {
+    "claim": "Calgary charity",
+    "url": "https://www.avenuecalgary.com/city-life/two-wheel-view-calgary-bikes/",
+    "snippet": "Registered charity located in Inglewood; moved to Calgary in 2006."
+   },
+   {
+    "claim": "Alberta address",
+    "url": "Benevity MCP",
+    "snippet": "907 9th Ave SE, CALGARY, Alberta T2G 0S5"
+   }
+  ],
+  "unknowns": [
+   "Legal form: 'Ltd.' likely means a Part 9 Companies Act nonprofit (eligible), unconfirmed",
+   "Revenue",
+   "Past CIP",
+   "Org-dev need",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "'Ltd.' suffix: confirm it is not a for-profit company (Benevity listing and charity description argue against that)",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "Laura Istead, Executive Director (https://www.linkedin.com/in/lauraistead/). This is a self-reported LinkedIn profile and whether it is current is unverified.",
+  "outreach_angle": "A social-enterprise bike shop plus youth programming is a natural CIP-ODC resource-management case (due Oct 15, 2026), but lead with a question, since no need signal is evidenced.",
+  "challenges_raised": "No strong-fit signal at all. The outreach angle is inference, so it is deprioritized."
+ },
+ {
+  "id": 10,
+  "org": "Autism Aspergers Friendship Society of Calgary (AAFS)",
+  "verdict": "CONDITIONAL",
+  "score": 27,
+  "confidence": "Low",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Match: AUTISM ASPERGERS FRIENDSHIP SOCIETY OF CALGARY, 220-8228 Macleod Trail SE, Calgary AB T2H 2B8. Description: founded 2004 by seven families.",
+  "why_qualifies": "Benevity confirms a Calgary charity founded in 2004 that runs rural programs in Airdrie and Cochrane.",
+  "evidence": [
+   {
+    "claim": "Calgary charity since 2004",
+    "url": "Benevity MCP",
+    "snippet": "In 2004, seven (7) families with children diagnosed with Autism Spectrum Disorder (ASD)... AAFS was founded"
+   },
+   {
+    "claim": "Rural expansion",
+    "url": "https://www.aafscalgary.com/AAFSRural",
+    "snippet": "rural programs in Airdrie and Cochrane"
+   }
+  ],
+  "unknowns": [
+   "Revenue",
+   "ED",
+   "Past CIP",
+   "Org-dev need: rural expansion is inference, not a stated need",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "None found",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "UNKNOWN; general contact: https://aafscalgary.wildapricot.org/aboutus/",
+  "outreach_angle": "Running programs across Calgary, Airdrie and Cochrane strains systems, and CIP-ODC (due Oct 15, 2026) funds multi-site management and strategy.",
+  "challenges_raised": "Only A1 and A2 are evidenced. The need signal is inference. Low priority."
+ },
+ {
+  "id": 11,
+  "org": "Antyx Community Arts Society",
+  "verdict": "CONDITIONAL",
+  "score": 25,
+  "confidence": "Low",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Match: ANTYX COMMUNITY ARTS SOCIETY, PO Box 84036, Calgary RPO Market Mall, Calgary AB T3A 5C4.",
+  "why_qualifies": "Benevity confirms a Calgary society that runs free arts programming for at-risk youth aged 12-18. It was established in 2010 through a merger.",
+  "evidence": [
+   {
+    "claim": "Established 2010",
+    "url": "https://antyx.ca/our-story/",
+    "snippet": "Established January 1, 2010 through merger of All Nations Theatre and Urban Youth Worx."
+   },
+   {
+    "claim": "Alberta address",
+    "url": "Benevity MCP",
+    "snippet": "ANTYX COMMUNITY ARTS SOCIETY, Calgary AB T3A 5C4"
+   }
+  ],
+  "unknowns": [
+   "Revenue",
+   "ED",
+   "Past CIP ('classic former-CIP profile' is inference)",
+   "Org-dev need",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "None found",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "UNKNOWN; general contact: https://antyx.ca/",
+  "outreach_angle": "Ask whether Antyx held CIP Operating before it closed; if so, CIP-ODC (due Oct 15, 2026) is the replacement door for resilience funding.",
+  "challenges_raised": "The outreach angle rested on the inference that it 'fits the CIP profile'. There is no signal, so it is low priority."
+ },
+ {
+  "id": 12,
+  "org": "Calgary Girls Choir Society",
+  "verdict": "CONDITIONAL",
+  "score": 36,
+  "confidence": "Medium",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Match: CALGARY GIRLS CHOIR SOCIETY, 3704 37 St SW, Calgary AB T3E 3C3.",
+  "why_qualifies": "Benevity confirms a Calgary society that has run since 1995, and it posted an Executive Director search closing March 16, 2026, so a new ED is likely in their first months.",
+  "evidence": [
+   {
+    "claim": "Leadership transition 2026",
+    "url": "https://calgaryartsdevelopment.com/classified-ads/executive-director-calgary-girls-choir-2026/",
+    "snippet": "Recruiting an Executive Director, applications due March 16, 2026"
+   },
+   {
+    "claim": "Alberta address",
+    "url": "Benevity MCP",
+    "snippet": "CALGARY GIRLS CHOIR SOCIETY, 3704 37 St SW, Calgary AB T3E 3C3"
+   }
+  ],
+  "unknowns": [
+   "Revenue",
+   "New ED name",
+   "Past CIP",
+   "Whether arts orgs fundable through AFA are eligible for or competitive in CIP-ODC (check guidelines)",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "Possible program-fit issue for arts orgs",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "UNKNOWN (new ED hired after March 2026 not identified); general: Calgary Girls Choir website via Benevity",
+  "outreach_angle": "A new ED in 2026 is the ideal moment for a leadership-transition and strategy project, and CIP-ODC (due Oct 15, 2026) funds exactly that.",
+  "challenges_raised": "The candidate file's website field was a job ad, not the org site. Benevity supplied the legal name 'Calgary Girls Choir Society'. Arts eligibility is flagged."
+ },
+ {
+  "id": 13,
+  "org": "Edmonton Down Syndrome Society (EDSS)",
+  "verdict": "PASS",
+  "score": 76,
+  "confidence": "Medium",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Match: EDMONTON DOWN SYNDROME SOCIETY, 9139 39 Ave NW, Edmonton AB T6E 5Y2, the same address as the opengovca registry. Reg # not returned; 899799753RR0001 came from a third-party aggregator snippet.",
+  "why_qualifies": "EDSS was incorporated as a charity in 1995 and Benevity confirms its Edmonton address. It appears on the 2024-25 CIP Operating approved list at $75,000 and has had an ED transition (2023) and new bylaws (2024).",
+  "evidence": [
+   {
+    "claim": "Incorporated 1995",
+    "url": "https://www.edss.ca/about",
+    "snippet": "In 1995, the group incorporated as a charitable organization under the name Edmonton Down Syndrome Society (EDSS)."
+   },
+   {
+    "claim": "Alberta address",
+    "url": "https://opengovca.com/alberta-business/23161",
+    "snippet": "registered business location at 9139 39 Ave, Edmonton, AB T6E 5Y2"
+   },
+   {
+    "claim": "CIP Operating 2024-25 (search snippet of PDF)",
+    "url": "https://www.alberta.ca/system/files/acsw-cip-operating-approved-applicants-2024-25.pdf",
+    "snippet": "Edmonton Down Syndrome Society, Edmonton, $75,000"
+   },
+   {
+    "claim": "Governance change",
+    "url": "https://thevogelgroup.ca/current-opportunities/executive-director-edmonton-down-syndrome-society/",
+    "snippet": "transition to new bylaws, which were approved at the April 2024 AGM"
+   }
+  ],
+  "unknowns": [
+   "Revenue: $366K is a ContactOut estimate only, so UNKNOWN",
+   "Whether the 2024-25 CIP Operating grant is multi-year and still running",
+   "Exact PDF line item (seen via search snippet)",
+   "Source page of the bylaws line is not pinned",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "A multi-year CIP Operating agreement still in force could affect timing or appetite",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "Janet Tryhuba, Executive Director (https://www.globaldownsyndrome.org/exclusive-interview-with-edss-executive-director-janet-tryhuba/). ED since May 2023 per the Vogel Group posting.",
+  "outreach_angle": "EDSS was funded at the $75K CIP Operating maximum in 2024-25, and that stream is now closed. CIP-ODC (up to $50K, due Oct 15, 2026) can fund the next phase after the 2023 ED transition and the 2024 bylaws: strategic plan, board development and fund diversification.",
+  "challenges_raised": "A4 was downgraded from MET to UNKNOWN (ContactOut estimate). S1 is recent and names the Operating stream, but it rests on a search snippet of the PDF, so the line item needs checking. Benevity confirms name and address."
+ },
+ {
+  "id": 14,
+  "org": "Autism Society of Edmonton Area (Autism Edmonton)",
+  "verdict": "CONDITIONAL",
+  "score": 36,
+  "confidence": "Medium",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Match: AUTISM SOCIETY OF EDMONTON AREA, #101, Edmonton AB T5G 0X5. Description: 'Since 1971, Autism Edmonton...'.",
+  "why_qualifies": "Benevity confirms an Edmonton org operating since 1971. The provincial grant database records a 2020/21 CIP Operational Assistance grant of $44,845 for ED, operating and organizational-development costs.",
+  "evidence": [
+   {
+    "claim": "Operating since 1971, Edmonton",
+    "url": "Benevity MCP",
+    "snippet": "Since 1971, Autism Edmonton (Autism Society of Edmonton Area) has been providing services"
+   },
+   {
+    "claim": "CIP Operating 2020/21 (pre-2022)",
+    "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2",
+    "snippet": "received CIP - Operational Assistance 2021 funding of $44,845.00 in the 2020/2021 fiscal year for Executive Director, operating, and organizational development costs"
+   }
+  ],
+  "unknowns": [
+   "Revenue",
+   "ED name",
+   "Any CIP Operating after 2021",
+   "Whether the snippet is a verbatim database line or a search paraphrase",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "CIP signal is 2020/21, which is weak",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "UNKNOWN; general contact: https://www.autismedmonton.org/",
+  "outreach_angle": "You have used CIP Operating for ED and organizational-development costs before. CIP-ODC (due Oct 15, 2026) is now the provincial door for that kind of spend.",
+  "challenges_raised": "A1 was upgraded from UNKNOWN on the strength of the Benevity listing and the 'since 1971' description. S1 is Operating stream but pre-2022, so it is a weak signal. No revenue or contact."
+ },
+ {
+  "id": 15,
+  "org": "Clean Scene Network for Youth Society",
+  "verdict": "REJECT",
+  "score": 12,
+  "confidence": "Medium",
+  "benevity_check": "No match. The search returned only unrelated US and international results.",
+  "why_qualifies": "Only evidence: a 2020/21 CIP Operational Assistance grant of $48,735 recorded in the provincial database.",
+  "evidence": [
+   {
+    "claim": "CIP Operating 2020/21 (pre-2022)",
+    "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2",
+    "snippet": "received $48,735.00 in fiscal year 2020/2021 for funding an Executive Director and Program Director..."
+   }
+  ],
+  "unknowns": [
+   "Whether it is still operating",
+   "Website",
+   "Revenue",
+   "Leadership",
+   "Faith stance",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "Possibly dormant or closed: no website, no Benevity listing, and no evidence after 2021",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "UNKNOWN; no website found",
+  "outreach_angle": "Hold. Confirm the society is active in the Alberta corporate registry before any contact.",
+  "challenges_raised": "The only evidence is a pre-2022 grant. The org has no web presence or charity listing, so there is too little to justify outreach."
+ },
+ {
+  "id": 16,
+  "org": "Abbottsfield Youth Project (AYP) Society",
+  "verdict": "CONDITIONAL",
+  "score": 30,
+  "confidence": "Medium",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Match: ABBOTTSFIELD YOUTH PROJECT (AYP) SOCIETY, 10608 34 Street NW, Edmonton AB T5W 1Y2. Description: free life-skills programs for children aged 6-18 in NE Edmonton.",
+  "why_qualifies": "Benevity confirms an active Edmonton society. The provincial database records a 2020/21 CIP Operational grant of $30,000 for staff, rent and insurance.",
+  "evidence": [
+   {
+    "claim": "Alberta address",
+    "url": "Benevity MCP",
+    "snippet": "10608 34 Street NW, Edmonton, Alberta T5W 1Y2"
+   },
+   {
+    "claim": "CIP Operating 2020/21 (pre-2022)",
+    "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2",
+    "snippet": "received $30,000.00 in fiscal year 2020/2021 for Child Development Coordinator, rent, and insurance costs"
+   }
+  ],
+  "unknowns": [
+   "Revenue",
+   "Leadership",
+   "Website (Benevity has a verified link, but the URL was not captured)",
+   "Faith stance (none indicated)",
+   "CIP after 2021",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "A $30K award hints at a smaller budget (inference), which would cap the award below $50K",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "UNKNOWN; general contact via the Benevity cause link",
+  "outreach_angle": "AYP relied on CIP Operating for core costs in 2020/21. CIP-ODC (due Oct 15, 2026) can't pay rent, but it can fund the resilience and resource-management plan that reduces that dependence.",
+  "challenges_raised": "A1 was upgraded using Benevity. The CIP signal is pre-2022 and weak."
+ },
+ {
+  "id": 17,
+  "org": "Edmonton Seniors Centre",
+  "verdict": "CONDITIONAL",
+  "score": 30,
+  "confidence": "Low",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Name match: EDMONTON SENIORS CENTRE, 15511 74 St NW, Edmonton AB T5Z 2Y1. No description, and the category is 'Parks and Playgrounds', so it is a thin record and identity with the grant recipient is unconfirmed.",
+  "why_qualifies": "The provincial database records a 2020/21 CIP Operational Assistance grant of $75,000 for ED and Office Administrator positions.",
+  "evidence": [
+   {
+    "claim": "CIP Operating 2020/21 (pre-2022)",
+    "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2",
+    "snippet": "received a CIP - Operational Assistance 2021 grant of $75,000.00 for the 2020/2021 fiscal year, designated for Executive Director and Office Administrator positions"
+   }
+  ],
+  "unknowns": [
+   "Whether the Benevity entity is the grant recipient",
+   "Revenue",
+   "Leadership",
+   "Website",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "Losing Operating salary funding creates a core gap that ODC (project-type org development) may not fill, so fit may be poor",
+   "Signal is pre-2022",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "UNKNOWN",
+  "outreach_angle": "CIP once paid your ED and admin salaries. CIP-ODC (due Oct 15, 2026) can fund succession, governance and revenue diversification to replace that dependence.",
+  "challenges_raised": "The Benevity record is thin, so identity is unconfirmed. Only a pre-2022 signal."
+ },
+ {
+  "id": 18,
+  "org": "Action Coalition on Human Trafficking (ACT) Alberta Association",
+  "verdict": "CONDITIONAL",
+  "score": 28,
+  "confidence": "Low",
+  "benevity_check": "Benevity details tool returns name/address only (no CRA reg # field). Match: Action Coalition on Human Trafficking Alberta Association, PO Box 302 Station Main, Edmonton AB T5J 2J6.",
+  "why_qualifies": "Benevity confirms an Edmonton-based association. A search summary of the provincial database names it among 2020/21 CIP Operational Assistance recipients, with no amount shown.",
+  "evidence": [
+   {
+    "claim": "Alberta address",
+    "url": "Benevity MCP",
+    "snippet": "PO BOX 302 STATION MAIN, EDMONTON, Alberta T5J2J6"
+   },
+   {
+    "claim": "CIP Operating 2020/21 (summary, no amount)",
+    "url": "https://extranet.gov.ab.ca/env/previous-grant-recipients-database/Home/Details?fiscalYearStart=2020&fiscalYearEnd=2021&municipalityId=3282&sort=2",
+    "snippet": "several organizations in Edmonton that received CIP - Operational Assistance grants in 2020/2021, including ... Action Coalition on Human Trafficking Alberta Association"
+   }
+  ],
+  "unknowns": [
+   "Award amount",
+   "Revenue",
+   "Leadership",
+   "Website",
+   "Overdue/incomplete ministry reporting (never publicly verifiable)",
+   "Whether already applying for Oct 15, 2026",
+   "Board appetite for an org-development project"
+  ],
+  "disqualification_risks": [
+   "Signal is pre-2022 and comes from a search summary rather than a database line",
+   "No match to known Business Path / Cenera / Innovate Calgary relationships seen in the file, but client list not checked; confirm before outreach."
+  ],
+  "contact": "UNKNOWN; general contact via the Benevity cause link",
+  "outreach_angle": "As a provincial coalition, ACT Alberta may fit CIP-ODC's Collaboratives category (up to $100K) as well as Individual Organizations; both close Oct 15, 2026.",
+  "challenges_raised": "A1 was upgraded using Benevity. The S1 evidence is a paraphrased search summary without an amount, so it is a weak signal."
+ }
+]
